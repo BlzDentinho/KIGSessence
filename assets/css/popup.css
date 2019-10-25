@@ -1,6 +1,6 @@
 .margin {
     margin-top: 10px;
-    color:  rgb(190, 0, 190);
+    
 }
 
 .btn {
@@ -11,4 +11,8 @@
 .btn-lg {
     background-color: rgb(210, 74, 214);
     border: solid 1px rgb(210, 74, 214);
+}
+
+.color-text {
+    color:  rgb(190, 0, 190);
 }
