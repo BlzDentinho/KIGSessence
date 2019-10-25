@@ -105,7 +105,7 @@
             <ul id="menu">
                 <a href="#">
                     <div class="dropdown-open3">
-                        <li>Perfumes</li>
+                        <li>Perfumes <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu3" style="display:none">
                             <a href="#">
                                 <li>Perfume 1</li>
@@ -121,48 +121,48 @@
                 </a>
                 <a href="#">
                     <div class="dropdown-open2">
-                        <li>Marcas</li>
+                        <li>Marcas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu2" style="display:none">
                             <a href="#">
-                                <li>AHDHUSADSA</li>
+                                <li>Marca 1</li>
                             </a>
                             <a href="#">
-                                <li>DSADSA</li>
+                                <li>Marca 2</li>
                             </a>
                             <a href="#">
-                                <li>DASDSA</li>
+                                <li>Marca 3</li>
                             </a>
                         </ul>
                     </div>
                 </a>
                 <a href="#">
                     <div class="dropdown-open1">
-                        <li>Relevaâncias mais vendidas</li>
+                        <li>Relevaâncias mais vendidas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu1" style="display:none">
                             <a href="#">
-                                <li>AHDHUSADSA</li>
+                                <li>Perfume relevante 1</li>
                             </a>
                             <a href="#">
-                                <li>DSADSA</li>
+                                <li>Perfume relevante 2</li>
                             </a>
                             <a href="#">
-                                <li>DASDSA</li>
+                                <li>Perfume relevante 3</li>
                             </a>
                         </ul>
                     </div>
                 </a>
                 <a href="#">
                     <div class="dropdown-open">
-                        <li>Lançamentos > </li>
+                        <li>Lançamentos <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu" style="display:none">
                             <a href="#">
-                                <li>AHDHUSADSA</li>
+                                <li>Lançamento 1</li>
                             </a>
                             <a href="#">
-                                <li>DSADSA</li>
+                                <li>Lançamento 2</li>
                             </a>
                             <a href="#">
-                                <li>DASDSA</li>
+                                <li>Lançamento 3</li>
                             </a>
                         </ul>
                     </div>
