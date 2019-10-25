@@ -9,8 +9,7 @@
 
 
     <a class="navbar-brand" href="#">
-            <img src="assets\images\logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
-            KIGSessence
+            <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top text-center" alt="">
         </a>
 
         <div id="menuToggle">
