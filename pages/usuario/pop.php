@@ -13,12 +13,12 @@
 <body>
 
     <div class="text-center">
-        <div class="text-center margin text-center">Login <input type="text"><br></div>
-        <div class="text-center margin text-center">Senha <input type="text"><br></div>
-        <div class="text-center margin text-center">Confirmar Senha <input type="text"><br></div>
-        <a href="#" onclick="" class="btn btn-primary btn-lg margin text-center" role="button">Salvar</a><br>
-
+        <div class="text-center margin">Login <input type="text"><br></div>
+        <div class="text-center margin">Senha <input type="text"><br></div>
+        <div><a href="cadastro.html" class="margin" onclick="">Novo usuário?Clique aqui</a><br></div>
+        <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
     </div>
+
 
     <script src="assets/js/generic.js"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
