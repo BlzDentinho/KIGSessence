@@ -1,0 +1,13 @@
+.margin {
+    margin-top: 10px;
+}
+
+.btn {
+    background-color: rgb(190, 0, 190);
+    border: solid 1px rgb(190, 0, 190);
+}
+
+.btn-lg {
+    background-color: rgb(210, 74, 214);
+    border: solid 1px rgb(210, 74, 214);
+}
