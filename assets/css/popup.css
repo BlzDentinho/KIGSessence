@@ -11,3 +11,11 @@
     background-color: rgb(210, 74, 214);
     border: solid 1px rgb(210, 74, 214);
 }
+
+.margin1 {
+    padding: 45px;
+}
+
+.tamanho {
+    width: 800px !important;
+}
