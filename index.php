@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
+    <?php include("includes/header.php"); ?>
     <style>
         .linha {
             border: solid 1px red;
@@ -27,18 +28,14 @@
 
 <body>
 
-    <!-- Imagem e texto -->
-    <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand" href="#">
-            <img src="assets\images\logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
-            KIGSessence
-        </a>
-    </nav>
+ 
 
-    <div class="container text-center">
-                    <?php
+    <?php
             include('includes/menu.php');
             ?>
+
+    <div class="container text-center">
+                    
         </div>
     </div>
 

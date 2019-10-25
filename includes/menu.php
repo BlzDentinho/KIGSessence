@@ -1,86 +1,18 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>Aula 23-09</title>
-    <meta charset="utf-8">
-
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <link rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/menu.css">
-    
-
-    <script>
-        $(document).ready(function() {
-            debugger;
-            $(".dropdown-open").hover(function() {
-
-                debugger;
-                $(".dropdown-menu").fadeIn();
-
-            }, function() {
-
-                $(".dropdown-menu").fadeOut();
-
-            })
 
 
-        });
-        $(document).ready(function() {
-            debugger;
-            $(".dropdown-open1").hover(function() {
 
-                debugger;
-                $(".dropdown-menu1").fadeIn();
-
-            }, function() {
-
-                $(".dropdown-menu1").fadeOut();
-
-            })
-
-
-        });
-        $(document).ready(function() {
-            debugger;
-            $(".dropdown-open2").hover(function() {
-
-                debugger;
-                $(".dropdown-menu2").fadeIn();
-
-            }, function() {
-
-                $(".dropdown-menu2").fadeOut();
-
-            })
-
-
-        });
-        $(document).ready(function() {
-            debugger;
-            $(".dropdown-open3").hover(function() {
-
-                debugger;
-                $(".dropdown-menu3").fadeIn();
-
-            }, function() {
-
-                $(".dropdown-menu3").fadeOut();
-
-            })
-
-
-        });
-    </script>
-
-</head>
-
-<body>
 
     <!--    Made by Erik Terwan    -->
     <!--   24th of November 2015   -->
     <!--        MIT License        -->
     <nav role="navigation">
+
+
+    <a class="navbar-brand" href="#">
+            <img src="assets\images\logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+            KIGSessence
+        </a>
+
         <div id="menuToggle">
             <!--
       A fake / hidden checkbox is used as click reciever,
@@ -105,7 +37,7 @@
             <ul id="menu">
                 <a href="#">
                     <div class="dropdown-open3">
-                        <li>Perfumes</li>
+                        <li>Perfumes <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu3" style="display:none">
                             <a href="#">
                                 <li>Perfume 1</li>
@@ -121,48 +53,48 @@
                 </a>
                 <a href="#">
                     <div class="dropdown-open2">
-                        <li>Marcas</li>
+                        <li>Marcas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu2" style="display:none">
                             <a href="#">
-                                <li>AHDHUSADSA</li>
+                                <li>Marca 1</li>
                             </a>
                             <a href="#">
-                                <li>DSADSA</li>
+                                <li>Marca 2</li>
                             </a>
                             <a href="#">
-                                <li>DASDSA</li>
+                                <li>Marca 3</li>
                             </a>
                         </ul>
                     </div>
                 </a>
                 <a href="#">
                     <div class="dropdown-open1">
-                        <li>Relevaâncias mais vendidas</li>
+                        <li>Relevaâncias mais vendidas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu1" style="display:none">
                             <a href="#">
-                                <li>AHDHUSADSA</li>
+                                <li>Perfume relevante 1</li>
                             </a>
                             <a href="#">
-                                <li>DSADSA</li>
+                                <li>Perfume relevante 2</li>
                             </a>
                             <a href="#">
-                                <li>DASDSA</li>
+                                <li>Perfume relevante 3</li>
                             </a>
                         </ul>
                     </div>
                 </a>
                 <a href="#">
                     <div class="dropdown-open">
-                        <li>Lançamentos > </li>
+                        <li>Lançamentos <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                         <ul class="dropdown-menu" style="display:none">
                             <a href="#">
-                                <li>AHDHUSADSA</li>
+                                <li>Lançamento 1</li>
                             </a>
                             <a href="#">
-                                <li>DSADSA</li>
+                                <li>Lançamento 2</li>
                             </a>
                             <a href="#">
-                                <li>DASDSA</li>
+                                <li>Lançamento 3</li>
                             </a>
                         </ul>
                     </div>
@@ -174,6 +106,3 @@
         </div>
     </nav>
 
-</body>
-
-</html>
