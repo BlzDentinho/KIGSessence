@@ -6,15 +6,15 @@
     <title>Pagina pop up</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/popup.css">
+    <link rel="stylesheet" href="../../assets/css/popup.css">
 
 </head>
 
 <body>
 
-    <div class="text-center">
-        <div class="text-center margin">Login <input type="text"><br></div>
-        <div class="text-center margin">Senha <input type="text"><br></div>
+    <div class="text-center color-text">
+        <div class="text-center margin">Login <input type="text" class="color-text"><br></div>
+        <div class="text-center margin">Senha <input type="text" class="color-text"><br></div>
         <div><a href="cadastro.php" class="margin" onclick="">Novo usuário?Clique aqui</a><br></div>
         <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
     </div>

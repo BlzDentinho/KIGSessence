@@ -6,7 +6,7 @@
     <title>Pagina pop up</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/popup.css">
+    <link rel="stylesheet" href="../../assets/css/popup.css">
     <script type="text/javascript" src="../../assets/js/generic.js"></script>
 
 
