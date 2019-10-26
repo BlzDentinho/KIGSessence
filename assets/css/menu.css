@@ -144,3 +144,11 @@ a:hover {
 #menuToggle input:checked~ul {
     transform: none;
 }
+
+.fundo-preto {
+    background: black;
+}
+
+.centralizar {
+    text-align: center;
+}
