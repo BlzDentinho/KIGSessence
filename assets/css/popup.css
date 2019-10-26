@@ -1,5 +1,6 @@
 .margin {
-    margin-top: 10px;
+    padding: 50px;
+    color:  rgb(210, 74, 214);
 }
 
 .btn {
@@ -12,10 +13,19 @@
     border: solid 1px rgb(210, 74, 214);
 }
 
+<<<<<<< HEAD
 .margin1 {
     padding: 45px;
 }
 
 .tamanho {
     width: 800px !important;
+=======
+.margin {
+    padding: 20px;
+}
+
+.color-text {
+    color:  rgb(210, 74, 214);
+>>>>>>> 0b0cb039932ea8358f0dc7d13765c2c56e721c02
 }
