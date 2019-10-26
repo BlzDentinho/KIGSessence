@@ -12,8 +12,8 @@
             <div class="col-md-8 linha borda-w">
                 <form class="margin1">
                     <div class="form-group">
-                    <label>Pesquisa</label>
-                        <input type="text" class="form-control tamanho" id="" aria-describedby="" placeholder="Pesquisa" >
+                        <label>Pesquisa</label>
+                        <input type="text" class="form-control tamanho" id="" aria-describedby="" placeholder="Pesquisa">
                     </div>
                 </form>
             </div>
