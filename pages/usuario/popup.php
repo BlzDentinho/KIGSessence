@@ -17,7 +17,7 @@
 
     <div>
         <h3>Botão/Janela pop-up</h3><br>
-        <a href="#" onclick="abrir()" class="btn btn-primary btn-lg margin float-right" role="button">Login</a><br>
+        <a href="#" onclick="abrir()" class="btn btn-primary btn-lg margin1" role="button">Login</a>
         <!-- <input onclick="abrir()" type="submit"> Opção 1 de botão -->
 
         <!-- <a href="#" onclick="abrir()">Login</a><br> Opção 2 de botão -->

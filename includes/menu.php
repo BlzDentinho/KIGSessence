@@ -1,12 +1,25 @@
 <!--    Made by Erik Terwan    -->
 <!--   24th of November 2015   -->
 <!--        MIT License        -->
+<head>
+    <script>
+        function abrir() {
+    href = "pages/usuario/pop.php";
+    window.open(href, 'janela', 'width=660, height=510, top=100, left=699,scrollbars=yes, status=no, toolbar=no, location=no, menubar=no, resizable=no, fullscreen=no')
+}
+
+function abrir1() {
+    href = "cadastro.php"
+    window.open(href, 'janela', 'width=660, height=510, top=100, left=699,scrollbars=yes, status=no, toolbar=no, location=no, menubar=no, resizable=no, fullscreen=no')
+}
+    </script>  
+</head>
 <nav role="navigation">
 
 
     <a class="navbar-brand" href="#">
         <div class="row">
-            <div class="col-md-4 linha borda-w">
+            <div class="col-md-2 linha borda-w">
                 <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top text-center" alt="">
             </div>
             <div class="col-md-8 linha borda-w">
@@ -17,6 +30,9 @@
                     </div>
                 </form>
             </div>
+            <div class="col-md-2 linha borda-w margin2">
+            <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
+        </div>
         </div>
     </a>
     <div id="menuToggle">
