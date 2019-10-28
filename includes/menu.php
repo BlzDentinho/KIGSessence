@@ -31,7 +31,6 @@ function abrir1() {
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-            <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
         </div>
         </div>
     </a>
