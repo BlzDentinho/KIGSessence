@@ -60,7 +60,7 @@
       -->
         <ul id="menu">
             <a href="#">
-                <div class="dropdown-open3">
+                <div class="dropdown-open3 menu-item">
                     <li>Perfumes <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu3" style="display:none">
                         <a href="#">
@@ -76,7 +76,7 @@
                 </div>
             </a>
             <a href="#">
-                <div class="dropdown-open2">
+                <div class="dropdown-open2 menu-item">
                     <li>Marcas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu2" style="display:none">
                         <a href="#">
@@ -92,7 +92,7 @@
                 </div>
             </a>
             <a href="#">
-                <div class="dropdown-open1">
+                <div class="dropdown-open1 menu-item">
                     <li>Relevaâncias mais vendidas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu1" style="display:none">
                         <a href="#">
@@ -108,7 +108,7 @@
                 </div>
             </a>
             <a href="#">
-                <div class="dropdown-open">
+                <div class="dropdown-open menu-item">
                     <li>Melhores perfumes<img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu" style="display:none">
                         <a href="#">
