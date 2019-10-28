@@ -1,0 +1,15 @@
+.linha {
+    border: solid 1px red;
+}
+
+.linha-palco {
+    margin-top: 50px;
+}
+
+.linha-palco1 {
+    height: 300px;
+}
+
+.borda-w {
+    border: solid 1px white;
+}
