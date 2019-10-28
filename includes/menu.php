@@ -33,8 +33,9 @@
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-                <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
-            </div>
+            <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
+            <!-- PROJETO INTEGRADOR  !-->
+        </div>
         </div>
     </a>
     <div id="menuToggle">

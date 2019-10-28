@@ -28,8 +28,6 @@
 
 <body>
 
-
-
     <div class="container text-center">
         <div class="row">
             <div class="col-sm-2 col-sm-2 borda-w">Linha 1</div>
