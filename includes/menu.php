@@ -1,18 +1,20 @@
 <!--    Made by Erik Terwan    -->
 <!--   24th of November 2015   -->
 <!--        MIT License        -->
+
 <head>
+
     <script>
         function abrir() {
-    href = "pages/usuario/pop.php";
-    window.open(href, 'janela', 'width=660, height=510, top=100, left=699,scrollbars=yes, status=no, toolbar=no, location=no, menubar=no, resizable=no, fullscreen=no')
-}
+            href = "pages/usuario/pop.php";
+            window.open(href, 'janela', 'width=660, height=510, top=100, left=699,scrollbars=yes, status=no, toolbar=no, location=no, menubar=no, resizable=no, fullscreen=no')
+        }
 
-function abrir1() {
-    href = "cadastro.php"
-    window.open(href, 'janela', 'width=660, height=510, top=100, left=699,scrollbars=yes, status=no, toolbar=no, location=no, menubar=no, resizable=no, fullscreen=no')
-}
-    </script>  
+        function abrir1() {
+            href = "cadastro.php"
+            window.open(href, 'janela', 'width=660, height=510, top=100, left=699,scrollbars=yes, status=no, toolbar=no, location=no, menubar=no, resizable=no, fullscreen=no')
+        }
+    </script>
 </head>
 <nav role="navigation">
 
@@ -31,8 +33,8 @@ function abrir1() {
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-            <button type="button" onclick="abrir()" class="btn btn-primary">Login</button><>
-        </div>
+                <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
+            </div>
         </div>
     </a>
     <div id="menuToggle">
