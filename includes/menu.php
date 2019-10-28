@@ -34,7 +34,7 @@
             </div>
             <div class="col-md-2 linha borda-w margin2">
             <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
-            <!-- PROJETO INTEGRADOR  !-->
+            <!-- PROJETO BOTAO CORRIGIDO  !-->
         </div>
         </div>
     </a>
