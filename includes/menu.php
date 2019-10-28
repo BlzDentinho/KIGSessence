@@ -33,7 +33,7 @@
             </div>
             <div class="col-md-2 linha borda-w margin2">
             <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
-            <!-- PROJETO BOTAO CORRIGIDO  !-->
+            <!-- PC G2  !-->
         </div>
 
     <div id="menuToggle">
