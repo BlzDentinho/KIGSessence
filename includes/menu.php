@@ -19,7 +19,6 @@
 <nav role="navigation">
 
 
-    <a class="navbar-brand" href="#">
         <div class="row">
             <div class="col-md-2 linha borda-w">
                 <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top text-center" alt="">
@@ -36,8 +35,7 @@
             <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
             <!-- PROJETO BOTAO CORRIGIDO  !-->
         </div>
-        </div>
-    </a>
+
     <div id="menuToggle">
         <!--
       A fake / hidden checkbox is used as click reciever,
