@@ -45,13 +45,13 @@
         <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-interval="10000">
-                    <img src="assets\images\Perfumehome1.png" class="d-block" width="1100" height="520" alt="...">
+                    <img src="assets\images\Perfumehome2.png" class="d-block" width="1100" height="520" alt="...">
                 </div>
                 <div class="carousel-item" data-interval="2000">
-                    <img src="assets\images\Perfumehome2.png" class="d-block " width="1100" height="520" alt="...">
+                    <img src="assets\images\Perfumehome3.png" class="d-block " width="1100" height="520" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="assets\images\Perfumehome3.png" class="d-block" width="1100" height="520" alt="...">
+                    <img src="assets\images\Perfume.jpg" class="d-block" width="1100" height="520" alt="...">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
@@ -71,13 +71,12 @@
 
     <div class="container linha-palco text-center">
         <div class="row">
-            <div class="col-sm-2 linha linha-palco1">Linha 1
+            <div class="col-sm-4 linha linha-palco1">Perfumes
             </div>
 
-            <div class="col-sm-4 linha borda-w">Linha 2</div>
-            <div class="col-sm-2 linha linha-palco1">Linha 3</div>
-            <div class="col-sm-4 linha borda-w">Linha 4</div>
-
+            <div class="col-sm-4 linha borda-w">Marcas</div>
+            <div class="col-sm-4 linha linha-palco1">Ranking</div>
+            
         </div>
 
         <div class="row">
@@ -95,12 +94,7 @@
             <div class="col-sm-12 col-sm-12 linha linha-palco1 borda-w"></div>
         </div>
 
-        <div class="row">
-            <div class="col-sm-2 linha linha-palco1">Linha 1</div>
-            <div class="col-sm-4 linha borda-w">Linha 2</div>
-            <div class="col-sm-2 linha linha-palco1">Linha 3</div>
-            <div class="col-sm-4 linha borda-w">Linha 4</div>
-        </div>
+    
     </div>
 
 
