@@ -24,8 +24,9 @@ if (move_uploaded_file($_FILES['arquivo']['tmp_name'], $novoarquivo)){
     echo "foi enviado com sucesso";
 }
 
-fwrite ($fp, $nome . "\n"); //Da entrada do documento txt
-fwrite ($fp, $telefone . "\n"); //faz o fechamento do documento txt
+fwrite ($fp, $Login . "\n"); //Da entrada do documento txt
+fwrite ($fp, $Senha . "\n"); //faz o fechamento do documento txt
+fwrite ($fp, $Confirmar senha . "\n");
 //dado = $nome ',' .$telefone. ',' . "\n"
 
 fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
