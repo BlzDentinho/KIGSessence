@@ -21,17 +21,17 @@
 
     <div class="cor-fundo">
         <div class="row no-gutters">
-            <div class="col-md-2 linha text-center">
+            <div class="col-md-2 linha borda-w text-center">
                 <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top" alt="">
             </div>
-            <div class="col-md-8 linha">
+            <div class="col-md-8 linha borda-w">
                 <form class="margin1">
                     <div class="form-group">
-                        <input type="text" class="form-control tamanho" id="" aria-describedby="" placeholder="Pesquisa">
+                        <input type="text" class="form-control" id="" aria-describedby="" placeholder="Pesquisa">
                     </div>
                 </form>
             </div>
-            <div class="col-md-2 linha margin2">
+            <div class="col-md-2 linha borda-w margin2">
                 <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
             </div>
         </div>
