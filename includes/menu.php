@@ -34,6 +34,10 @@
         </div>
         <div class="col-md-2 linha borda-w margin2">
             <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
+<<<<<<< HEAD
+=======
+            <!-- PC G2  !-->
+>>>>>>> 5d7490528c957c6ea588bb4fad4a2e47344278ef
         </div>
     </div>
 
