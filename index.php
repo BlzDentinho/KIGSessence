@@ -75,8 +75,8 @@
     </div>
 
     <div class="embed-responsive embed-responsive-16by9 container padding">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wCozFRta-jk" allowfullscreen></iframe>
-</div>
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wCozFRta-jk" allowfullscreen></iframe>
+    </div>
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -85,53 +85,54 @@
 
 
 
-
-    <footer id="myFooter">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-3">
-                    <h2 class="logo"><a href="https://programadorviking.com.br/"> LOGO </a></h2>
-                </div>
-                <div class="col-sm-2">
-                    <h5>Inicio</h5>
-                    <ul>
-                        <li><a href="https://programadorviking.com.br/">Home</a></li>
-                        <li><a href="https://bit.ly/front-end-curso-completo-promocao-01">Cursos</a></li>
-                        <li><a href="https://programadorviking.com.br/">Downloads</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-2">
-                    <h5>Sobre-nós</h5>
-                    <ul>
-                        <li><a href="https://programadorviking.com.br/">Informações da Empresa</a></li>
-                        <li><a href="https://programadorviking.com.br/">Contato</a></li>
-                        <li><a href="https://programadorviking.com.br/">Blog</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-2">
-                    <h5>Suporte</h5>
-                    <ul>
-                        <li><a href="https://programadorviking.com.br/">FAQ</a></li>
-                        <li><a href="https://programadorviking.com.br/">Telefones</a></li>
-                        <li><a href="https://programadorviking.com.br/">Chat</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-3">
-                    <div class="social-networks">
-                        <a href="https://programadorviking.com.br/" class="twitter"><i class="fa fa-twitter"></i></a>
-                        <a href="https://programadorviking.com.br/" class="facebook"><i class="fa fa-facebook"></i></a>
-                        <a href="https://programadorviking.com.br/" class="instagram"><i class="fa fa-instagram"></i></a>
+    <div class="padding">
+        <footer id="myFooter">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <h2 class="logo"><a href="https://programadorviking.com.br/"> LOGO </a></h2>
                     </div>
-                    <a href="https://programadorviking.com.br/">
-                        <button type="button" class="btn btn-default">Contato</button>
-                    </a>
+                    <div class="col-sm-2">
+                        <h5>Inicio</h5>
+                        <ul>
+                            <li><a href="https://programadorviking.com.br/">Home</a></li>
+                            <li><a href="https://bit.ly/front-end-curso-completo-promocao-01">Cursos</a></li>
+                            <li><a href="https://programadorviking.com.br/">Downloads</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-2">
+                        <h5>Sobre-nós</h5>
+                        <ul>
+                            <li><a href="https://programadorviking.com.br/">Informações da Empresa</a></li>
+                            <li><a href="https://programadorviking.com.br/">Contato</a></li>
+                            <li><a href="https://programadorviking.com.br/">Blog</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-2">
+                        <h5>Suporte</h5>
+                        <ul>
+                            <li><a href="https://programadorviking.com.br/">FAQ</a></li>
+                            <li><a href="https://programadorviking.com.br/">Telefones</a></li>
+                            <li><a href="https://programadorviking.com.br/">Chat</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="social-networks">
+                            <a href="https://programadorviking.com.br/" class="twitter"><i class="fa fa-twitter"></i></a>
+                            <a href="https://programadorviking.com.br/" class="facebook"><i class="fa fa-facebook"></i></a>
+                            <a href="https://programadorviking.com.br/" class="instagram"><i class="fa fa-instagram"></i></a>
+                        </div>
+                        <a href="https://programadorviking.com.br/">
+                            <button type="button" class="btn btn-default">Contato</button>
+                        </a>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="footer-copyright">
-            <p>© 2019 Copyright - Programador Viking</p>
-        </div>
-    </footer>
+            <div class="footer-copyright">
+                <p>© 2019 Copyright - Programador Viking</p>
+            </div>
+        </footer>
+    </div>
 </body>
 
 </html>
