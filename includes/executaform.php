@@ -4,7 +4,7 @@
 $pasta = "./assets/documentsclient/";
 
 //Linha que define o nome do arquivo
-$novoarquivo = $pasta . basename($_FILES['arquivo']['name']);
+//$novoarquivo = $pasta . basename($_FILES['arquivo']['name']);
 
 //Verifica se o aploaded file foi sucesso
 if (move_uploaded_file($_FILES['arquivo']['tmp_name'], $novoarquivo)){
@@ -22,12 +22,12 @@ if ($senha == $csenha) {
     fwrite ($fp, $email . "\n");
     
     
-    fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
-    fclose($fp);         //Não precisa para fazer o file funcionar
+    //fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
+    //fclose($fp);         //Não precisa para fazer o file funcionar
 }
 
 
 
 //Define onde a pagina se redirencionará após finalizar o procedimento
-header ("Location: http://127.0.0.1/KIGSessence");
+//header ("Location: http://127.0.0.1/KIGSessence");
 ?>

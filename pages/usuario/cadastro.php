@@ -12,13 +12,13 @@
 </head>
 
 <body>
-    <form action="executaform.php" method="post">
+    <form id="form-id" action="../../includes/executaform.php" method="post">
         <div class="text-center color-text">
             <div class="text-center margin text-center">Login <input type="text" name="login" class="color-text"><br></div>
             <div class="text-center margin text-center">Senha <input type="text" name="senha" class="color-text"><br></div>
             <div class="text-center margin text-center">Confirmar Senha <input type="text" name="csenha" class="color-text"><br></div>
             <div class="text-center margin text-center">E-mail <input type="text" name="email" class="color-text"><br></div>
-            <a href="#" onclick="" class="btn btn-primary btn-lg text-center" role="button">Salvar</a><br>
+            <a href="#" onclick="document.getElementById('form-id').submit();" class="btn btn-primary btn-lg text-center" role="button">Salvar</a><br>
 
         </div>
     </form>
