@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <form action="executaform.php">
+    <form action="executaform.php" method="post">
         <div class="text-center color-text">
             <div class="text-center margin text-center">Login <input type="text" name="login" class="color-text"><br></div>
             <div class="text-center margin text-center">Senha <input type="text" name="senha" class="color-text"><br></div>

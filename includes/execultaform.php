@@ -23,14 +23,23 @@ $novoarquivo = $pasta . basename($_FILES['arquivo']['name']);
 if (move_uploaded_file($_FILES['arquivo']['tmp_name'], $novoarquivo)){
     echo "foi enviado com sucesso";
 }
+$login= $_POST["login"]; 
+$senha= $_POST["senha"];
+$csenha= $_POST["csenha"];
+$email= $_POST ["email"];
 
-fwrite ($fp, $Login . "\n"); //Da entrada do documento txt
-fwrite ($fp, $Senha . "\n"); //faz o fechamento do documento txt
-fwrite ($fp, $Confirmar senha . "\n");
-//dado = $nome ',' .$telefone. ',' . "\n"
+if ($senha == $csenha) {
+    fwrite ($fp, $login . "\n"); //Da entrada do documento txt
+    fwrite ($fp, $senha . "\n"); //faz o fechamento do documento txt
+    fwrite ($fp, $csenha . "\n");
+    fwrite ($fp, $email . "\n");
+    //dado = $nome ',' .$telefone. ',' . "\n"
+    
+    fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
+    fclose($fp);         //Não precisa para fazer o file funcionar
+}
 
-fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
-fclose($fp);         //Não precisa para fazer o file funcionar
+
 
 //Define onde a pagina se redirencionará após finalizar o procedimento
 header ("Location: http://127.0.0.1/KIGSessence");
