@@ -17,6 +17,7 @@
         <div class="text-center margin text-center">Login <input type="text" class="color-text"><br></div>
         <div class="text-center margin text-center">Senha <input type="text" class="color-text"><br></div>
         <div class="text-center margin text-center">Confirmar Senha <input type="text" class="color-text"><br></div>
+        <div class="text-center margin text-center">E-mail <input type="text" class="color-text"><br></div>
         <a href="#" onclick="" class="btn btn-primary btn-lg text-center" role="button">Salvar</a><br>
 
     </div>
