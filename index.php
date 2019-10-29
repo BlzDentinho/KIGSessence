@@ -102,6 +102,8 @@
             <div class="col-sm-4 linha borda-w">Linha 2</div>
             <div class="col-sm-2 linha linha-palco1">Linha 3</div>
             <div class="col-sm-4 linha borda-w">Linha 4</div>
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe>
         </div>
 
         <div class="row">
