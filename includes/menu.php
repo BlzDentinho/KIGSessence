@@ -21,8 +21,8 @@
 
 
     <div class="row">
-        <div class="col-md-2 linha borda-w">
-            <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top text-center" alt="">
+        <div class="col-md-2 linha borda-w text-center">
+            <img src="assets\images\logo.png" width="200" height="200" class="d-inline-block align-top" alt="">
         </div>
         <div class="col-md-8 linha borda-w">
             <form class="margin1">
