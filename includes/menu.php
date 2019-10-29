@@ -19,22 +19,23 @@
 <nav role="navigation">
 
 
-        <div class="row">
-            <div class="col-md-2 linha borda-w">
-                <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top text-center" alt="">
-            </div>
-            <div class="col-md-8 linha borda-w">
-                <form class="margin1">
-                    <div class="form-group">
-                        <label>Pesquisa</label>
-                        <input type="text" class="form-control tamanho" id="" aria-describedby="" placeholder="Pesquisa">
-                    </div>
-                </form>
-            </div>
-            <div class="col-md-2 linha borda-w margin2">
-            <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
-            <!-- PC G2  !-->
+
+    <div class="row">
+        <div class="col-md-2 linha borda-w">
+            <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top text-center" alt="">
         </div>
+        <div class="col-md-8 linha borda-w">
+            <form class="margin1">
+                <div class="form-group">
+                    <label>Pesquisa</label>
+                    <input type="text" class="form-control tamanho" id="" aria-describedby="" placeholder="Pesquisa">
+                </div>
+            </form>
+        </div>
+        <div class="col-md-2 linha borda-w margin2">
+            <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
+        </div>
+    </div>
 
     <div id="menuToggle">
         <!--
@@ -59,7 +60,7 @@
       -->
         <ul id="menu">
             <a href="#">
-                <div class="dropdown-open3">
+                <div class="dropdown-open3 menu-item">
                     <li>Perfumes <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu3" style="display:none">
                         <a href="#">
@@ -75,7 +76,7 @@
                 </div>
             </a>
             <a href="#">
-                <div class="dropdown-open2">
+                <div class="dropdown-open2 menu-item">
                     <li>Marcas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu2" style="display:none">
                         <a href="#">
@@ -91,7 +92,7 @@
                 </div>
             </a>
             <a href="#">
-                <div class="dropdown-open1">
+                <div class="dropdown-open1 menu-item">
                     <li>Relevaâncias mais vendidas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu1" style="display:none">
                         <a href="#">
@@ -107,9 +108,9 @@
                 </div>
             </a>
             <a href="#">
-                <div class="dropdown-open">
+                <div class="dropdown-open menu-item">
                     <li>Melhores perfumes<img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
-                    <ul class="dropdown-menu" style="display:none">
+                    <ul class="dropdown-menu4" style="display:none">
                         <a href="#">
                             <li>Perfume relevante 1</li>
                         </a>
