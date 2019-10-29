@@ -16,12 +16,9 @@
 <script>
     $(document).ready(function() {
 
-        console.log('ready');
         $('.menu-item').hover(function(){
-            console.log('Hover aqui');
             $(this).find('ul').fadeIn();
         }, function(){
-            console.log('Hover out aqui');
             $(this).find('ul').fadeOut();
         });
 
