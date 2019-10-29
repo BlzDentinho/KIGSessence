@@ -1,18 +1,5 @@
 <?php
 
-//$nome = $_POST ['nome'];
-//$telefone = $_POST ['telefone'];
-
-
-//$fp = fopen('data.txt', 'a');
-//$fp = fopen(' ' .$nome. '.txt' , 'a');
-
-//Mostrar a variavel do arquivo (imprime)
-//$arquivo = $_FILES['arquivo'];
-//echo '<pre>';
-//print_r($arquivo);
-//echo '</pre>';
-
 //Definir a pasta onde será enviado o arquivo
 $pasta = "./assets/documentsclient/";
 
@@ -29,11 +16,11 @@ $csenha= $_POST["csenha"];
 $email= $_POST ["email"];
 
 if ($senha == $csenha) {
-    fwrite ($fp, $login . "\n"); //Da entrada do documento txt
-    fwrite ($fp, $senha . "\n"); //faz o fechamento do documento txt
+    fwrite ($fp, $login . "\n");
+    fwrite ($fp, $senha . "\n");
     fwrite ($fp, $csenha . "\n");
     fwrite ($fp, $email . "\n");
-    //dado = $nome ',' .$telefone. ',' . "\n"
+    
     
     fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
     fclose($fp);         //Não precisa para fazer o file funcionar
