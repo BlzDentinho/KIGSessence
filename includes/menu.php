@@ -20,14 +20,13 @@
 
 
 
-    <div class="row">
+    <div class="row cor-fundo">
         <div class="col-md-2 linha borda-w text-center">
-            <img src="assets\images\logo.png" width="200" height="200" class="d-inline-block align-top" alt="">
+            <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top" alt="">
         </div>
         <div class="col-md-8 linha borda-w">
             <form class="margin1">
                 <div class="form-group">
-                    <h1 class="text-center">Pesquisa</h1>
                     <input type="text" class="form-control tamanho" id="" aria-describedby="" placeholder="Pesquisa">
                 </div>
             </form>
