@@ -7,13 +7,15 @@ $pasta = "./assets/documentsclient/";
 //$novoarquivo = $pasta . basename($_FILES['arquivo']['name']);
 
 //Verifica se o aploaded file foi sucesso
-if (move_uploaded_file($_FILES['arquivo']['tmp_name'], $novoarquivo)){
-    echo "foi enviado com sucesso";
-}
+//if (move_uploaded_file($_FILES['arquivo']['tmp_name'], $novoarquivo)){
+    //echo "foi enviado com sucesso";
+//}
 $login= $_POST["login"]; 
 $senha= $_POST["senha"];
 $csenha= $_POST["csenha"];
 $email= $_POST ["email"];
+
+$fp = fopen('dados.txt', 'w');
 
 if ($senha == $csenha) {
     fwrite ($fp, $login . "\n");
