@@ -110,7 +110,7 @@
             <a href="#">
                 <div class="dropdown-open menu-item">
                     <li>Melhores perfumes<img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
-                    <ul class="dropdown-menu" style="display:none">
+                    <ul class="dropdown-menu4" style="display:none">
                         <a href="#">
                             <li>Perfume relevante 1</li>
                         </a>
