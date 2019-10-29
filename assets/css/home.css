@@ -1,5 +1,5 @@
 .linha {
-    border: solid 1px red;
+    border: solid 0px red;
 }
 
 .linha-palco {
@@ -11,7 +11,7 @@
 }
 
 .borda-w {
-    border: solid 1px white;
+    border: solid 0px white;
 }
 
 .cor1 {
