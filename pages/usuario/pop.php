@@ -17,6 +17,7 @@
         <div class="text-center margin">Senha <input type="text" class="color-text"><br></div>
         <div><a href="cadastro.php" class="margin" onclick="">Novo usuário?Clique aqui</a><br></div>
         <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
+        <img src="assets/images/logo.png" width="250" height="250" class="text-center img-fundo">
     </div>
 
 

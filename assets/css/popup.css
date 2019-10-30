@@ -31,3 +31,8 @@
 .cor-fundo {
     background-color: #e6f2ff;
 }
+
+.img-fundo {
+    opacity: 50%;
+    z-index: 3;
+}
