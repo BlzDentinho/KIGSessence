@@ -19,7 +19,7 @@
             <div class="text-center margin text-center">Confirmar Senha <input type="text" name="csenha" class="color-text"><br></div>
             <div class="text-center margin text-center">E-mail <input type="text" name="email" class="color-text"><br></div>
             <a href="#" onclick="document.getElementById('form-id').submit();" class="btn btn-primary btn-lg text-center" role="button">Salvar</a><br>
-            <img src="assets/imagens/logo.php" width="250" height="250" class="text-center img-fundo">
+            <img src="assets/images/logo.php" width="250" height="250" class="text-center img-fundo">
 
         </div>
     </form>
