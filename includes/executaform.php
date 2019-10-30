@@ -15,7 +15,7 @@ $senha= $_POST["senha"];
 $csenha= $_POST["csenha"];
 $email= $_POST ["email"];
 
-$fp = fopen('./../documentosdoscliente/dados.txt', 'w');
+$fp = fopen('./../documentosdoscliente/usuario.txt', 'w');
 
 if ($senha == $csenha) {
     fwrite ($fp, $login . "\n");
