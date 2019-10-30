@@ -15,14 +15,14 @@ $senha= $_POST["senha"];
 $csenha= $_POST["csenha"];
 $email= $_POST ["email"];
 
-$fp = fopen('dados.txt', 'w');
+$fp = fopen('./../documentosdoscliente/dados.txt', 'w');
 
 if ($senha == $csenha) {
     fwrite ($fp, $login . "\n");
     fwrite ($fp, $senha . "\n");
     fwrite ($fp, $csenha . "\n");
     fwrite ($fp, $email . "\n");
-    
+    echo 'Deu certo';
     
     //fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
     //fclose($fp);         //Não precisa para fazer o file funcionar
