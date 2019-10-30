@@ -13,7 +13,7 @@
 
 <body>
 <form id="form-id" action="../../includes/executaform.php" method="post">
-        <div class="topmenu">
+        <div class="text-center topmenu">
             <div class="margin">Login <input type="text" name="login" class="color-text"><br></div>
             <div class="margin">Senha <input type="text" name="senha" class="color-text"><br></div>
             <div class="margin">Confirmar Senha <input type="text" name="csenha" class="color-text"><br></div>
