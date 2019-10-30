@@ -14,7 +14,8 @@
 <body>
 <form id="form-id" action="../../includes/executaform.php" method="post">
         <div class="text-center topmenu">
-            <div class="margin">Login <input type="text" name="login" class="color-text"><br></div>
+            <div class="margin">Nome <input type="text" name="nome" class="color-text"><br></div>
+            <div class="margin">Sobrenome <input type="text" name="snome" class="color-text"><br></div>
             <div class="margin">Senha <input type="text" name="senha" class="color-text"><br></div>
             <div class="margin">Confirmar Senha <input type="text" name="csenha" class="color-text"><br></div>
             <div class="margin">E-mail <input type="text" name="email" class="color-text"><br></div>
