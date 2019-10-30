@@ -13,13 +13,13 @@
 
 <body>
     <form id="form-id" action="../../includes/executaform.php" method="post">
-        <div class="topmenu">
+        <div class="topmenu text-center">
             <div class="margin">Nome <input type="text" name="nome" class="color-text"></div>
             <div class="margin">Sobrenome <input type="text" name="snome" class="color-text"></div>
             <div class="margin">E-mail <input type="text" name="email" class="color-text"><br></div>
             <div class="margin">Senha <input type="text" name="senha" class="color-text"><br></div>
             <div class="margin">Confirmar Senha <input type="text" name="csenha" class="color-text"><br></div>
-            <a href="#" onclick="document.getElementById('form-id').submit();" class="btn btn-primary btn-lg text-center" role="button">Salvar</a><br>
+            <a href="#" onclick="document.getElementById('form-id').submit();" class="btn btn-primary btn-lg" role="button">Salvar</a><br>
             <img src="../../assets/images/logo.png" class="img-fundo text-center">
         </div>
     </form>
