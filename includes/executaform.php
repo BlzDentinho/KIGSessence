@@ -18,11 +18,12 @@ $email= $_POST ["email"];
 $fp = fopen('./../documentosdoscliente/usuario.txt', 'w');
 
 if ($senha == $csenha) {
-    fwrite ($fp, $login . "\n");
+    fwrite ($fp, $nome . "\n");
+    fwrite ($fp, $snome . "\n");
+    fwrite ($fp, $email . "\n");
     fwrite ($fp, $senha . "\n");
     fwrite ($fp, $csenha . "\n");
-    fwrite ($fp, $email . "\n");
-    echo 'Deu certo';
+        echo 'Deu certo';
     
     //fwrite ($fp, $dado); //Não precisa para fazer o file funcionar
     //fclose($fp);         //Não precisa para fazer o file funcionar
