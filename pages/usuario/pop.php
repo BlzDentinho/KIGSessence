@@ -15,7 +15,7 @@
     <div class="text-center color-text topmenu">
         <div class="text-center margin">Login <input type="text" class="color-text"><br></div>
         <div class="text-center margin">Senha <input type="text" class="color-text"><br></div>
-        <div><a href="formulario.php" class="margin" onclick="">Novo usuário?Clique aqui</a><br></div>
+        <div><a href="pages/usuario/formulario.php" class="margin" onclick="#">Novo usuário?Clique aqui</a><br></div>
         <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
         <img src="../../assets/images/logo.png" class="img-fundo text-center">
     </div>
