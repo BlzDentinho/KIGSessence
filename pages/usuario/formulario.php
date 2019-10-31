@@ -11,24 +11,25 @@
 </head>
 
 <body>
+    <div>
     <form id="form-id" action="../../includes/executaform.php" method="post">
-        <div class="row topmenu text-center">
-            <div class="margin1 col-md-3">Nome <input type="text" name="nome"></div>
-            <div class="margin1 col-md-3">Sobrenome <input type="text" name="snome"></div>
-            <div class="margin1 col-md-3"></div>
-            <div class="margin1 col-md-3"></div>
+        <div class="row margin1">
+            <div class="col-md-2">Nome <input type="text" name="nome"></div>
+            <div class="col-md-2">Sobrenome <input type="text" name="snome"></div>
+            <div class="col-md-4"></div>
+            <div class="col-md-4"></div>
         </div>
-        <div class="row">
-            <div class="margin1 col-md-4">E-mail <input type="text" name="email"></div>
-            <div class="margin1 col-md-3"></div>
-            <div class="margin1 col-md-3"></div>
-            <div class="margin1 col-md-2"></div>
+        <div class="row margin1">
+            <div class="col-md-4">E-mail <input type="text" name="email"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-2"></div>
         </div>
-        <div class="row">
-            <div class="margin1 col-md-3">Senha <input type="text" name="senha"></div>
-            <div class="margin1 col-md-3">Confirmar Senha <input type="text" name="csenha"></div>
-            <div class="margin1 col-md-3"></div>
-            <div class="margin1 col-md-3"></div>
+        <div class="row margin1">
+            <div class="col-md-3">Senha <input type="text" name="senha"></div>
+            <div class="col-md-3">Confirmar Senha <input type="text" name="csenha"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
         </div>
         <div class="row">
             <div><a href="#" onclick="document.getElementById('form-id').submit();" class="col-md-12 btn btn-primary btn-lg" role="button">Salvar</a><br></div>
