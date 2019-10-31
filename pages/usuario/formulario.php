@@ -13,7 +13,7 @@
 
 <body>
     <form id="form-id" action="../../includes/executaform.php" method="post">
-        <div class="topmenu text-center color-text">
+        <div class="topmenu text-center color-text1">
             <div class="margin">Nome <input type="text" name="nome" class="color-text"></div>
             <div class="margin">Sobrenome <input type="text" name="snome" class="color-text"></div>
             <div class="margin">E-mail <input type="text" name="email" class="color-text"><br></div>
