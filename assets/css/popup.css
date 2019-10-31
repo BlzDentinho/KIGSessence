@@ -1,5 +1,6 @@
 .margin {
-    padding: 10px;
+    padding: 5px;
+    border: 1px solid black;
 }
 
 .btn {
@@ -13,7 +14,8 @@
 }
 
 .margin1 {
-    padding: 45px;
+    padding: 5px;
+    border: 1px solid black;
 }
 
 .color-text {

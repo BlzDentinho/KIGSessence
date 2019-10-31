@@ -8,19 +8,35 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../assets/css/popup.css">
 
-
 </head>
 
 <body>
+    <div>
     <form id="form-id" action="../../includes/executaform.php" method="post">
-        <div class="topmenu text-center">
-            <div class="margin">Nome <input type="text" name="nome" class="color-text1"></div>
-            <div class="margin">Sobrenome <input type="text" name="snome" class="color-text1"></div>
-            <div class="margin">E-mail <input type="text" name="email" class="color-text1"><br></div>
-            <div class="margin">Senha <input type="text" name="senha" class="color-text1"><br></div>
-            <div class="margin">Confirmar Senha <input type="text" name="csenha" class="color-text1"><br></div>
-            <a href="#" onclick="document.getElementById('form-id').submit();" class="btn btn-primary btn-lg" role="button">Salvar</a><br>
-            <img src="../../assets/images/logo.png" class="img-fundo text-center">
+        <div class="row margin1 text-center">
+            <div class="col-md-2">Nome <input type="text" name="nome"></div>
+            <div class="col-md-2">Sobrenome <input type="text" name="snome"></div>
+            <div class="col-md-4"></div>
+            <div class="col-md-4"></div>
+        </div>
+        <div class="row margin1">
+            <div class="col-md-4">E-mail <input type="text" name="email"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-2"></div>
+        </div>
+        <div class="row margin1">
+            <div class="col-md-3">Senha <input type="text" name="senha"></div>
+            <div class="col-md-3">Confirmar Senha <input type="text" name="csenha"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="row">
+            <div><a href="#" onclick="document.getElementById('form-id').submit();" class="col-md-12 btn btn-primary btn-lg" role="button">Salvar</a><br></div>
+        </div>
+        <div class="row">
+            <img src="../../assets/images/logo.png" class="col-md-12 img-fundo">
+        </div>
         </div>
     </form>
 
