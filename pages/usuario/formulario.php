@@ -13,7 +13,7 @@
 <body>
     <div>
     <form id="form-id" action="../../includes/executaform.php" method="post">
-        <div class="row margin1">
+        <div class="row margin1 text-center">
             <div class="col-md-2">Nome <input type="text" name="nome"></div>
             <div class="col-md-2">Sobrenome <input type="text" name="snome"></div>
             <div class="col-md-4"></div>
