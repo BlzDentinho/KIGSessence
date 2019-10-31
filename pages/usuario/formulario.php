@@ -26,10 +26,11 @@
             <div class="margin col-md-2"></div>
         </div>
         <div class="row">
-            <div class="margin col-md-3"></div>
-            <div class="margin col-md-3">Senha <input type="text" name="senha"></div>
-            <div class="margin col-md-3"></div>
-            <div class="margin col-md-3">Confirmar Senha <input type="text" name="csenha"></div>
+            <div class="margin col-md-2"></div>
+            <div class="margin col-md-2">Senha <input type="text" name="senha"></div>
+            <div class="margin col-md-2"></div>
+            <div class="margin col-md-2">Confirmar Senha <input type="text" name="csenha"></div>
+            <div class="margin col-md-4"></div>
         </div>
         <div class="row">
             <div><a href="#" onclick="document.getElementById('form-id').submit();" class="col-md-12 btn btn-primary btn-lg" role="button">Salvar</a><br></div>
