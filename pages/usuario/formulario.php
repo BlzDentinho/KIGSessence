@@ -8,29 +8,27 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../assets/css/popup.css">
 
-
 </head>
 
 <body>
     <form id="form-id" action="../../includes/executaform.php" method="post">
         <div class="row topmenu text-center">
-            <div class="margin col-md-3">Nome <input type="text" name="nome"></div>
-            <div class="margin col-md-3"></div>
-            <div class="margin col-md-3">Sobrenome <input type="text" name="snome"></div>
-            <div class="margin col-md-3"></div>
+            <div class="margin1 col-md-3">Nome <input type="text" name="nome"></div>
+            <div class="margin1 col-md-3">Sobrenome <input type="text" name="snome"></div>
+            <div class="margin1 col-md-3"></div>
+            <div class="margin1 col-md-3"></div>
         </div>
         <div class="row">
-            <div class="margin col-md-4">E-mail <input type="text" name="email"></div>
-            <div class="margin col-md-3"></div>
-            <div class="margin col-md-3"></div>
-            <div class="margin col-md-2"></div>
+            <div class="margin1 col-md-4">E-mail <input type="text" name="email"></div>
+            <div class="margin1 col-md-3"></div>
+            <div class="margin1 col-md-3"></div>
+            <div class="margin1 col-md-2"></div>
         </div>
         <div class="row">
-            <div class="margin col-md-2"></div>
-            <div class="margin col-md-2">Senha <input type="text" name="senha"></div>
-            <div class="margin col-md-2"></div>
-            <div class="margin col-md-2">Confirmar Senha <input type="text" name="csenha"></div>
-            <div class="margin col-md-4"></div>
+            <div class="margin1 col-md-3">Senha <input type="text" name="senha"></div>
+            <div class="margin1 col-md-3">Confirmar Senha <input type="text" name="csenha"></div>
+            <div class="margin1 col-md-3"></div>
+            <div class="margin1 col-md-3"></div>
         </div>
         <div class="row">
             <div><a href="#" onclick="document.getElementById('form-id').submit();" class="col-md-12 btn btn-primary btn-lg" role="button">Salvar</a><br></div>

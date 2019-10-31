@@ -14,7 +14,8 @@
 }
 
 .margin1 {
-    padding: 45px;
+    padding: 5px;
+    border: 1px solid black;
 }
 
 .color-text {
