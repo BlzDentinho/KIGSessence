@@ -81,7 +81,7 @@
 
 #myFooter .btn {
     color: white;
-    background-color: #cdcdcd;
+    background-color: #71ab9a;
     border-radius: 20px;
     border: none;
     width: 150px;
@@ -117,10 +117,6 @@
     left: 0;
     width: 100%;
     height: 100%;
-    /* Position the items */
-    // &:nth-child(2) { top: 25%; }
-    // &:nth-child(3) { top: 50%; }
-    // &:nth-child(4) { top: 75%; }
 }
 
 .make-me-sticky {
@@ -140,15 +136,15 @@ body {
 article {
     background: #f1f1f1;
     border-radius: 12px;
-    padding: 25px 0 600px;
+    padding: 25px 0 90px;
 }
 
 .title-section,
 .content-section,
 .sidebar-section {
     background: #fff;
-    // border-radius: 12px;
-    // border: solid 10px #f1f1f1; 
+    border-radius: 12px;
+    border: solid 10px #f1f1f1;
 }
 
 .title-section {
@@ -161,15 +157,4 @@ article {
     text-align: center;
     margin: 0;
     padding-top: 200px;
-}
-
-.sidebar-item {
-    text-align: center;
-    h3 {
-        background: gold;
-        max-width: 100%;
-        margin: 0 auto;
-        padding: 50px 0 100px;
-        border-bottom: solid 1px #fff;
-    }
 }

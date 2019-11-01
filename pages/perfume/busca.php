@@ -28,20 +28,16 @@
 
 <body>
 
-<?php
-    include('../../includes/menu.php')
-    ?>
-
     <div class="container text-center">
         <div class="row">
             <div class="col-sm-2 col-sm-2 borda-w">Linha 1</div>
-            <div class="col-sm-6 col-sm-6 linha">Linha 2</div>
+            <div class="col-sm-6 col-sm-6 ">Linha 2</div>
             <div class="col-sm-3 col-sm-2 borda-w">Linha 3</div>
         </div>
     </div>
     <div class="container linha-palco text-center">
         <div class="row">
-            <div class="col-sm-2 linha linha-palco1">
+            <div class="col-sm-2 linha-palco1">
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
@@ -49,8 +45,14 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-2 borda-w">Fortune</div>
-            <div class="col-sm-2 linha linha-palco1">
+            <div class="col-sm-4 col-sm-2 borda-w">
+                <h1>FORTUNE</h1>
+                <p><b>Perfume Masculino - Inspirado no One Million</b></p>
+                <p><b>Amaderado/Intenso</b></p>
+                <p>Feito para o homem poderoso, moderno, competitivo. Ele está sempre envolvido em jogos de poder e sedução, e só entra para ganhar.</p>              
+            </div>
+
+            <div class="col-sm-2 linha-palco1">
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
@@ -65,7 +67,7 @@
    
     <div class="container linha-palco text-center">
         <div class="row">
-            <div class="col-sm-2 linha linha-palco1">
+            <div class="col-sm-2 linha-palco1">
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
@@ -75,7 +77,7 @@
             </div>
             <div class="col-sm-4 col-sm-2 borda-w">Fast Car Black</div>
 
-            <div class="col-sm-2 linha linha-palco1">
+            <div class="col-sm-2 linha-palco1">
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
@@ -89,7 +91,7 @@
 
     <div class="container linha-palco text-center">
         <div class="row">
-            <div class="col-sm-2 linha linha-palco1">
+            <div class="col-sm-2 linha-palco1">
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
@@ -99,7 +101,7 @@
             </div>
             <div class="col-sm-4 col-sm-2 borda-w">521 Rosé Vip</div>
 
-            <div class="col-sm-2 linha linha-palco1">
+            <div class="col-sm-2 linha-palco1">
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
