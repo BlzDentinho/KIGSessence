@@ -16,7 +16,7 @@
             <div class="row">
                 <div class="col-md-0 color-text1"></div>
                 <div class="col-md-2 color-text1"></div>
-                <div class="col-md-6 color-text1 "><img src="../../assets/images/logo.png" class="img-fundo1"></div>
+                <div class="col-md-6 color-text1"><img src="../../assets/images/logo.png" class="img-fundo1"></div>
                 <div class="col-md-2 color-text1"></div>
                 <div class="col-md-2 color-text1"></div>
             </div>
