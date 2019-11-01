@@ -3,6 +3,7 @@
 <!--        MIT License        -->
 
 <head>
+    <link href="../assets/css/popup.css">
 
     <script>
         function abrir() {
@@ -31,7 +32,7 @@
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-                <button type="button" onclick="abrir()" class="btn btn-primary">Login</button>
+            <button  type="button"  onclick="abrir()" class="btn btn-default">Login</button>
             </div>
         </div>
     </div>

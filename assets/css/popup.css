@@ -1,6 +1,5 @@
 .margin {
     padding: 5px;
-    border: 1px solid black;
 }
 
 .btn {
@@ -14,8 +13,7 @@
 }
 
 .margin1 {
-    padding: 5px;
-    border: 1px solid black;
+    padding: 48px;
 }
 
 .color-text {
@@ -28,7 +26,7 @@
 }
 
 .margin2 {
-    padding: 46px;
+    padding: 35px;
 }
 
 .margin3 {
@@ -45,13 +43,13 @@
     width: 400px;
     z-index: -1;
     position: absolute;
-    top:90px;
-    left: 150px;  
+    top: 90px;
+    left: 150px;
 }
 
 .topmenu {
     padding: 100px;
-} 
+}
 
 .formulario {
     color: rgb(210, 74, 214);
@@ -62,7 +60,7 @@
     height: 400px;
     width: 400px;
     z-index: -1;
-    position: absolute; 
-    top:90px;
-    left: 150px;  
+    position: absolute;
+    top: 90px;
+    left: 150px;
 }
