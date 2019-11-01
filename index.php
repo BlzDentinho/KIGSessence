@@ -123,7 +123,7 @@
                             <a href="https://programadorviking.com.br/" class="instagram"><i class="fa fa-instagram"></i></a>
                         </div>
                         <a href="https://programadorviking.com.br/">
-                            <button type="button" class="btn btn-default">Contato</button>
+                            <button  type="button"  onclick="abrir()" class="btn btn-default">Contato</button>
                         </a>
                     </div>
                 </div>

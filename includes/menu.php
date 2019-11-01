@@ -27,12 +27,12 @@
             <div class="col-md-8 linha borda-w">
                 <form class="margin1">
                     <div class="form-group">
-                        <input type="text" onclick="abrir()" class="form-control" id="" aria-describedby="" placeholder="Pesquisa">
+                        <input type="text" class="form-control" id="" aria-describedby="" placeholder="Pesquisa">
                     </div>
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-            <button  type="button" class="btn btn-default">Login</button>
+            <button  type="button"  onclick="abrir()" class="btn btn-default">Login</button>
             </div>
         </div>
     </div>
