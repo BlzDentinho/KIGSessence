@@ -3,9 +3,16 @@
 }
 
 .btn {
-    background-color: rgb(190, 0, 190);
-    border: solid 1px rgb(190, 0, 190);
-}
+    color: white;
+    background-color: #71ab9a;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+    }
 
 .btn-lg {
     background-color: rgb(210, 74, 214);
@@ -45,6 +52,16 @@
     position: absolute;
     top: 90px;
     left: 150px;
+}
+
+.img-fundo1 {
+    opacity: 40%;
+    height: 400px;
+    width: 400px;
+    z-index: -1;
+    position: absolute;
+    top: 50px;
+    left: 10px;
 }
 
 .topmenu {
