@@ -27,6 +27,9 @@
         h1 {
             font-size: 25px;
         }
+        .cor {
+            background-color: #ccc;
+        }
     </style>
 </head>
 
@@ -40,7 +43,7 @@
         </div>
     </div>
     <div class="container linha-palco text-center">
-        <div class="row">
+        <div class="row cor">
             <div class="col-sm-2 linha-palco1">
                 <div class="row"></div>
                 <div class="row">
@@ -49,7 +52,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-2 borda-w">
+            <div class="col-sm-4 col-sm-2">
                 <h1>FORTUNE</h1>
                 <p><b>Masculino - Inspirado no One Million</b></p>
                 <p><b>Amaderado/Intenso</b></p>
@@ -64,7 +67,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-2 borda-w">
+            <div class="col-sm-4 col-sm-2">
                 <h1>521 MEN</h1>
                 <p><b>Masculino - Inspirado no 212 Men Caroline Herrera</b></p>
                 <p><b>Amaderado/Intenso</b></p>
@@ -84,7 +87,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-2 borda-w">
+            <div class="col-sm-4 col-sm-2">
                 <h1>FAST CAR BLACK</h1>
                 <p><b>Masculino - Inspirado no Ferrari Black</b></p>
                 <p><b>Frutado/Amadeirado</b></p>
@@ -100,7 +103,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-2 borda-w">
+            <div class="col-sm-4 col-sm-2">
                 <h1>Jump Life</h1>
                 <p><b>Masculino - Inspirado no Joop Homme - Joop! </b></p>
                 <p><b>Fougére/Oriental</b></p>
@@ -119,7 +122,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-2 borda-w">
+            <div class="col-sm-4 col-sm-2">
                 <h1>521 Rosé Vip</h1>
                 <p><b>Feminino - Inspirado no 212 Vip Rosé - Caroline Herrera</b></p>
                 <p><b>Floral/Amadeirado</b></p>
@@ -135,7 +138,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4 col-sm-2 borda-w">
+            <div class="col-sm-4 col-sm-2">
                 <h1>Angelina</h1>
                 <p><b>Feminino - Inspirado no Angel Thierry Mugler</b></p>
                 <p><b>Futal/Oriental</b></p>
