@@ -69,13 +69,13 @@
                         </div>
                     </div>
 
+                    <div class="text-center padding">
+    <iframe width="700" height="400" src="https://www.youtube.com/embed/dgl9Mqd4858" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
                 </div>
 
-                <div class="embed-responsive embed-responsive-16by9 container padding">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wCozFRta-jk"></iframe>
-                </div>
-
-                <div class="col-2">
+                                <div class="col-2">
 
                     <div class="sidebar-item">
                         <div class="make-me-sticky">
