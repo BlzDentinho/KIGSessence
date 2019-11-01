@@ -13,7 +13,7 @@
     </style>
 </head>
 
-<body >
+<body style="overflow-x:hidden">
 
     <?php
     include('includes/menu.php');
@@ -53,7 +53,7 @@
 
                     <div class="container linha-palco text-center cor1">
                         <div class="row">
-                            <div class="col-sm-4 linha linha-palco1">
+                            <div class="col-sm-4  linha-palco1">
                                 <h1>Perfumes</h1>
                                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                             </div>
@@ -62,17 +62,17 @@
                                 <h1>Marcas</h1>
                                 "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
                             </div>
-                            <div class="col-sm-4 linha linha-palco1">
+                            <div class="col-sm-4  linha-palco1">
                                 <h1>Ranking</h1>
                                 "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure.
                             </div>
                         </div>
                     </div>
 
-                    <div class="embed-responsive embed-responsive-16by9 container padding">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wCozFRta-jk"></iframe>
-                    </div>
+                </div>
 
+                <div class="embed-responsive embed-responsive-16by9 container padding">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wCozFRta-jk"></iframe>
                 </div>
 
                 <div class="col-2">
@@ -84,6 +84,7 @@
                     </div>
 
                 </div>
+
             </div>
         </div>
 
@@ -117,7 +118,7 @@
 
                     <div class="col-sm-3">
                         <a href="https://programadorviking.com.br/">
-                            <button  type="button"  onclick="abrir()" class="btn btn-default">Contato</button>
+                            <button type="button" onclick="abrir()" class="btn btn-default">Contato</button>
                         </a>
                     </div>
                 </div>

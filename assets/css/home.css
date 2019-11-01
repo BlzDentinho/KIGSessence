@@ -81,7 +81,7 @@
 
 #myFooter .btn {
     color: white;
-    background-color: #cdcdcd;
+    background-color: #71ab9a;
     border-radius: 20px;
     border: none;
     width: 150px;
@@ -136,7 +136,7 @@ body {
 article {
     background: #f1f1f1;
     border-radius: 12px;
-    padding: 25px 0 600px;
+    padding: 25px 0 90px;
 }
 
 .title-section,
