@@ -11,6 +11,12 @@
     <style>
 
     </style>
+
+    <script>$(document).ready(function() {
+    $('.carousel').carousel({
+        interval: 6000
+    })
+});</script>
 </head>
 
 <body style="overflow-x:hidden">
@@ -54,17 +60,32 @@
                     <div class="container linha-palco text-center cor1">
                         <div class="row">
                             <div class="col-sm-4  linha-palco1">
-                                <h1>Perfumes</h1>
-                                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                                <h1>K by Dolce & Gabbana</h1>
+                                "Verdade. Lealdade. Amor. Celebre uma nova era de masculinidade com K by Dolce & Gabbana. Um Eau de Toilette envolvente que une tradição e modernidade.
+A fragrância abre com uma mistura fresca e energética de Laranja Sanguínea, Limão Siciliano e Bagas de Zimbro. No coração, um toque quente e refinado de Essência Picante de Pimento, Âmbar de Sálvia, Gerânio e Lavanda. Por fim, um rastro magnético e inesquecível de Cedro, Vetiver e Patchouli.
+O frasco apresenta uma tampa artesanal, geometricamente esculpida em forma de coroa, com partículas de ouro de 24 quilates. A letra K evoca o símbolo tradicional da realeza, mas com uma simplicidade ousada que é surpreendentemente contemporânea"
                             </div>
 
                             <div class="col-sm-4 linha borda-w">
-                                <h1>Marcas</h1>
-                                "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+                                <h1>Gourmands Multissensoriais</h1>
+                                Consumidores ao redor do mundo continuam “in love” pelos doces perfumes doces, de forte apelo afetivo, e a proximidade entre perfumes e sabores continua possibilitando inúmeras iniciativas que mantem este universo entre os mais dinâmicos e inovadores na perfumaria. Um exemplo disso é a abertura do bar de Fragrâncias no Ritz Carlton em Berlin. A seleção de coquetéis homenageia alguns dos perfumes mais icônicos do mundo: Giorgio Armani, L’Artisan Parfumeur, Annick Goutal, Yves Saint Laurent, Salvatore Ferragamo e Guerlain.
                             </div>
                             <div class="col-sm-4  linha-palco1">
-                                <h1>Ranking</h1>
-                                "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure.
+                                <h1>2019 <br> Novidades</h1>
+                                Polo Ultra Blue, Ralph Lauren
+                                Acqua Di Giò Absolu, Giorgio Armani
+                                Stranger With You, Emporio Armani
+                                Mercedes-Benz Club Black
+                                Blu Mediterraneo Chinotto Di Liguria
+                                First Instinct Blue Man Eau de Toilette Abercrombie & Fitch
+                                Composition No. 6 Parfum, da Joya
+                                OUD Extrait de Parfum, da Maison Francis Kurkdjian
+                                F**king Fabulous Eau de Parfum, de Tom Ford
+                                Spiritueuse Double Vanille Eau de Parfum, da Guerlain
+                                Rose and White Musk Absolu, de Jo Malone
+                                Petite Cherie Eau de Parfum edição bordada, de Annick Goutal
+                                Essences Insensees Eau de Parfum, da Diptyque
+                                Floralie, da CREED
                             </div>
                         </div>
                     </div>
@@ -89,6 +110,9 @@
         </div>
 
     </article>
+
+   
+</div>
 
 
 
