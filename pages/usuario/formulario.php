@@ -7,6 +7,11 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="../../assets/css/popup.css">
+    <link rel="stylesheet" href="../../assets/css/menu.css">
+    <link rel="stylesheet" href="../../assets/css/home.css">
+    <?php
+    include('../../includes/header.php');
+    ?>
     
    
 
@@ -14,7 +19,7 @@
 
 <body>
 <?php
-    include('../../header.php');
+    include('../../includes/menu.php');
     ?>
     <div class="container">
         <div>
