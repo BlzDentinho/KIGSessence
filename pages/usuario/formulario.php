@@ -9,14 +9,14 @@
     <link rel="stylesheet" href="../../assets/css/popup.css">
     <link rel="stylesheet" href="../../assets/css/menu.css">
     <link rel="stylesheet" href="../../assets/css/home.css">
-    
-    
-   
+
+
+
 
 </head>
 
 <body>
-<?php
+    <?php
     include('../../includes/menu.php');
     ?>
     <div class="container">
@@ -30,11 +30,11 @@
             </div>
             <form id="form-id" action="../../includes/executaform.php" method="post">
                 <div class="row margin1">
-                <div class="col-md-3 color-text1"></div>    
-                <div class="col-md-3 color-text1">Nome <input type="text" name="nome" class="form-control shadow-sm"></div>
+                    <div class="col-md-3 color-text1"></div>
+                    <div class="col-md-3 color-text1">Nome <input type="text" name="nome" class="form-control shadow-sm"></div>
                     <div class="col-md-3 color-text1">Sobrenome <input type="text" name="snome" class="form-control shadow-sm"></div>
                     <div class="col-md-3 color-text1"></div>
-                    
+
                 </div>
                 <div class="row margin1">
                     <div class="col-md-3 color-text1"></div>
@@ -53,9 +53,10 @@
                     <div class="col-md-4 color-text1"></div>
                     <div class="col-md-4 color-text1"></div>
                 </div>
+            </form>
         </div>
     </div>
-    </form>
+
 
 
 
