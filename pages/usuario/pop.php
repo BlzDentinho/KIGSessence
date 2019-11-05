@@ -18,11 +18,10 @@
         <div><a href="formulario.php" class="margin" onclick="#" target="_blank">Novo usuário?Clique aqui</a><br></div>
         <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
         <div class="row">
-            <div class="row text-center">
-                <button type="button" onclick="#()" class="btn btn-default">Entrar</button>
-                <button type="button" onclick="#()" class="btn btn-default">Sair</button>
-            </div>
+            <button type="button" onclick="#()" class="btn btn-default col-md-6">Entrar</button>
+            <button type="button" onclick="#()" class="btn btn-default col-md-6">Sair</button>
         </div>
+
     </div>
     <img src="../../assets/images/logo.png" class="img-fundo text-center">
 
