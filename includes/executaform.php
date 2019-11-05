@@ -10,7 +10,8 @@ $pasta = "./assets/documentsclient/";
 //if (move_uploaded_file($_FILES['arquivo']['tmp_name'], $novoarquivo)){
     //echo "foi enviado com sucesso";
 //}
-$login= $_POST["login"]; 
+$nome= $_POST["nome"];
+$snome= $_POST["snome"]; 
 $senha= $_POST["senha"];
 $csenha= $_POST["csenha"];
 $email= $_POST ["email"];
