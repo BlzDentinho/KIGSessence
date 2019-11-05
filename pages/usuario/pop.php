@@ -17,8 +17,14 @@
         <div class="text-center margin">Senha <input type="text" class="color-text"><br></div>
         <div><a href="formulario.php" class="margin" onclick="#" target="_blank">Novo usuário?Clique aqui</a><br></div>
         <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
-        <img src="../../assets/images/logo.png" class="img-fundo text-center">
+        <div class="row">
+            <div class="row text-center">
+                <button type="button" onclick="#()" class="btn btn-default">Entrar</button>
+                <button type="button" onclick="#()" class="btn btn-default">Sair</button>
+            </div>
+        </div>
     </div>
+    <img src="../../assets/images/logo.png" class="img-fundo text-center">
 
 
     <script src="assets/js/generic.js"></script>
