@@ -12,11 +12,13 @@
 
     </style>
 
-    <script>$(document).ready(function() {
-    $('.carousel').carousel({
-        interval: 6000
-    })
-});</script>
+    <script>
+        $(document).ready(function() {
+            $('.carousel').carousel({
+                interval: 6000
+            })
+        });
+    </script>
 </head>
 
 <body style="overflow-x:hidden">
@@ -34,11 +36,83 @@
         <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-interval="10000">
-                    <img src="assets\images\Perfumehome2.png" class="d-block" width="1050" height="500" alt="...">
+
+                    <div class="card-deck">
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
+
+
                 <div class="carousel-item" data-interval="2000">
-                    <img src="assets\images\Perfumehome3.png" class="d-block " width="1000" height="500" alt="...">
+                <div class="card-deck">
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                        <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Individuel Montblanc</h5>
+                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
+                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
+
             </div>
             <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -48,6 +122,7 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
+
         </div>
     </div>
 
@@ -57,46 +132,47 @@
             <div class="row">
                 <div class="col-10">
 
-                    <div class="container linha-palco text-center cor1">
+                    <div class="container linha-palco cor1">
                         <div class="row">
-                            <div class="col-sm-4  linha-palco1">
+                            <div class="col-sm-4 text-center linha-palco1">
                                 <h1>K by Dolce & Gabbana</h1>
-                                "Verdade. Lealdade. Amor. Celebre uma nova era de masculinidade com K by Dolce & Gabbana. Um Eau de Toilette envolvente que une tradição e modernidade.
-A fragrância abre com uma mistura fresca e energética de Laranja Sanguínea, Limão Siciliano e Bagas de Zimbro. No coração, um toque quente e refinado de Essência Picante de Pimento, Âmbar de Sálvia, Gerânio e Lavanda. Por fim, um rastro magnético e inesquecível de Cedro, Vetiver e Patchouli.
-O frasco apresenta uma tampa artesanal, geometricamente esculpida em forma de coroa, com partículas de ouro de 24 quilates. A letra K evoca o símbolo tradicional da realeza, mas com uma simplicidade ousada que é surpreendentemente contemporânea"
+                                <p class="text-justify">"Verdade. Lealdade. Amor. Celebre uma nova era de masculinidade com K by Dolce & Gabbana. Um Eau de Toilette envolvente que une tradição e modernidade.
+                                    A fragrância abre com uma mistura fresca e energética de Laranja Sanguínea, Limão Siciliano e Bagas de Zimbro. No coração, um toque quente e refinado de Essência Picante de Pimento, Âmbar de Sálvia, Gerânio e Lavanda. Por fim, um rastro magnético e inesquecível de Cedro, Vetiver e Patchouli.
+                                    O frasco apresenta uma tampa artesanal, geometricamente esculpida em forma de coroa, com partículas de ouro de 24 quilates. A letra K evoca o símbolo tradicional da realeza, mas com uma simplicidade ousada que é surpreendentemente contemporânea"</p>
                             </div>
 
-                            <div class="col-sm-4 linha borda-w">
+                            <div class="col-sm-4 text-center linha borda-w">
                                 <h1>Gourmands Multissensoriais</h1>
-                                Consumidores ao redor do mundo continuam “in love” pelos doces perfumes doces, de forte apelo afetivo, e a proximidade entre perfumes e sabores continua possibilitando inúmeras iniciativas que mantem este universo entre os mais dinâmicos e inovadores na perfumaria. Um exemplo disso é a abertura do bar de Fragrâncias no Ritz Carlton em Berlin. A seleção de coquetéis homenageia alguns dos perfumes mais icônicos do mundo: Giorgio Armani, L’Artisan Parfumeur, Annick Goutal, Yves Saint Laurent, Salvatore Ferragamo e Guerlain.
+                                <p class="text-justify">Consumidores ao redor do mundo continuam “in love” pelos doces perfumes doces, de forte apelo afetivo, e a proximidade entre perfumes e sabores continua possibilitando inúmeras iniciativas que mantem este universo entre os mais dinâmicos e inovadores na perfumaria. Um exemplo disso é a abertura do bar de Fragrâncias no Ritz Carlton em Berlin. A seleção de coquetéis homenageia alguns dos perfumes mais icônicos do mundo: Giorgio Armani, L’Artisan Parfumeur, Annick Goutal, Yves Saint Laurent, Salvatore Ferragamo e Guerlain.</p>
                             </div>
-                            <div class="col-sm-4  linha-palco1">
+
+                            <div class="col-sm-4 text-center linha-palco1">
                                 <h1>2019 <br> Novidades</h1>
-                                Polo Ultra Blue, Ralph Lauren
-                                Acqua Di Giò Absolu, Giorgio Armani
-                                Stranger With You, Emporio Armani
-                                Mercedes-Benz Club Black
-                                Blu Mediterraneo Chinotto Di Liguria
-                                First Instinct Blue Man Eau de Toilette Abercrombie & Fitch
-                                Composition No. 6 Parfum, da Joya
-                                OUD Extrait de Parfum, da Maison Francis Kurkdjian
-                                F**king Fabulous Eau de Parfum, de Tom Ford
-                                Spiritueuse Double Vanille Eau de Parfum, da Guerlain
-                                Rose and White Musk Absolu, de Jo Malone
-                                Petite Cherie Eau de Parfum edição bordada, de Annick Goutal
-                                Essences Insensees Eau de Parfum, da Diptyque
-                                Floralie, da CREED
+                                <p>Polo Ultra Blue, Ralph Lauren
+                                    Acqua Di Giò Absolu, Giorgio Armani
+                                    Stranger With You, Emporio Armani
+                                    Mercedes-Benz Club Black
+                                    Blu Mediterraneo Chinotto Di Liguria
+                                    First Instinct Blue Man Eau de Toilette Abercrombie & Fitch
+                                    Composition No. 6 Parfum, da Joya
+                                    OUD Extrait de Parfum, da Maison Francis Kurkdjian
+                                    F**king Fabulous Eau de Parfum, de Tom Ford
+                                    Spiritueuse Double Vanille Eau de Parfum, da Guerlain
+                                    Rose and White Musk Absolu, de Jo Malone
+                                    Petite Cherie Eau de Parfum edição bordada, de Annick Goutal
+                                    Essences Insensees Eau de Parfum, da Diptyque
+                                    Floralie, da CREED</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="text-center padding">
-    <iframe width="700" height="400" src="https://www.youtube.com/embed/dgl9Mqd4858" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+                        <iframe width="700" height="400" src="https://www.youtube.com/embed/dgl9Mqd4858" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
 
                 </div>
 
-                                <div class="col-2">
+                <div class="col-2">
 
                     <div class="sidebar-item">
                         <div class="make-me-sticky">
@@ -111,8 +187,8 @@ O frasco apresenta uma tampa artesanal, geometricamente esculpida em forma de co
 
     </article>
 
-   
-</div>
+
+    </div>
 
 
 
