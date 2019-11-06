@@ -126,7 +126,7 @@
         </div>
     </div>
 
-    <article>
+    <article class="padding">
         <div class="container-fluid">
 
             <div class="row">
