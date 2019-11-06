@@ -4,11 +4,11 @@
 <head>
     <title>KIGSessence</title>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
+    
+    <?php include("../../includes/header.php"); ?>
 
     <style>
-        .linha {
+        <style>.linha {
             border: solid 1px red;
         }
 
@@ -27,6 +27,7 @@
         h1 {
             font-size: 25px;
         }
+
         .cor {
             background-color: #CDCDCD;
         }
@@ -35,13 +36,10 @@
 
 <body>
 
-    <div class="container text-center">
-        <div class="row">
-            <div class="col-sm-2 col-sm-2 borda-w">Linha 1</div>
-            <div class="col-sm-6 col-sm-6 ">Linha 2</div>
-            <div class="col-sm-3 col-sm-2 borda-w">Linha 3</div>
-        </div>
-    </div>
+    <?php
+    include('../../includes/menu.php');
+    ?>
+    
     <div class="container-fluid linha-palco text-center">
         <div class="row cor">
             <div class="col-sm-2 linha-palco1">
