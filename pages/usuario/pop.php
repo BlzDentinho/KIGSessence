@@ -16,9 +16,9 @@
         <div class="text-center margin">Login <input type="text" class="color-text"><br></div>
         <div class="text-center margin">Senha <input type="text" class="color-text"><br></div>
         <div class="row">
-            <div class="col-md-2"><button type="button" class="btn btn-default text-center">Entrar</button></div>
-            <div class="col-md-2"><button type="button" class="btn btn-default text-center">Sair</button></div> 
-            <div class="col-md-8"></div> 
+            <div class="col-md-5"><button type="button" class="btn btn-success">Entrar</button></div>
+            <div class="col-md-2"></div>
+            <div class="col-md-5"><button type="button" class="btn btn-success">Sair</button></div>
         </div>
         <div><a href="formulario.php" class="margin" onclick="#" target="_blank">Novo usuário?Clique aqui</a><br></div>
         <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
