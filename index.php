@@ -41,30 +41,30 @@
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume4.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="assets\images\Nota1.png"> - Black Orchid</h5>
-                                <p class="card-text">Black Orchid Tom Ford - Perfume Feminino</p>
+                                <h5 class="card-title cor1"><img src="assets\images\Nota1.png"> - Black Orchid</h5>
+                                <p class="card-text cor1">Tom Ford<br>Perfume Feminino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume1.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="assets\images\Nota2.png"> - Olympéa Intense</h5>
-                                <p class="card-text">Olympéa Intense Paco Rabanne - Perfume Feminino</p>
+                                <h5 class="card-title cor1"><img src="assets\images\Nota2.png"> - Olympéa Intense</h5>
+                                <p class="card-text cor1">Paco Rabanne<br>Perfume Feminino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume2.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="assets\images\Nota3.png"> - L'interdit Parfum</h5>
-                                <p class="card-text">L'interdit Givenchy - Perfume Feminino</p>
+                                <h5 class="card-title cor1"><img src="assets\images\Nota3.png"> - L'interdit Parfum</h5>
+                                <p class="card-text cor1">Givenchy<br>Perfume Feminino</p>
 
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume3.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="assets\images\Nota3.png"> - Light Blue</h5>
-                                <p class="card-text">Light Blue Dolce & Gabbana - Perfume Feminino</p>
+                                <h5 class="card-title cor1"><img src="assets\images\Nota3.png"> - Light Blue</h5>
+                                <p class="card-text cor1">Dolce & Gabbana<br>Perfume Feminino</p>
 
                             </div>
                         </div>
@@ -73,27 +73,27 @@
                 </div>
 
 
-                <div class="carousel-item" data-interval="2000">
+                <div class="carousel-item cor1" data-interval="2000">
                     <div class="card-deck">
                     <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume44.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <h5 class="card-title"><img src="assets\images\Nota1.png"> - Uomo Intense</h5>
-                                <p class="card-text">Uomo Intense Valentino - Perfume Masculino</p>
+                                <p class="card-text">Valentino<br>Perfume Masculino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume11.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <h5 class="card-title"><img src="assets\images\Nota3.png"> - The One</h5>
-                                <p class="card-text">The One Dolce & Gabbana - Perfume Masculino</p>
+                                <p class="card-text">Dolce & Gabbana<br>Perfume Masculino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume22.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <h5 class="card-title"><img src="assets\images\Nota4.png"> - Armani Code</h5>
-                                <p class="card-text">Armani Code Giorgio Armani - Perfume Masculino</p>
+                                <p class="card-text">Giorgio Armani<br>Perfume Masculino</p>
 
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                             <img class="card-img-top" src="assets\images\Perfume33.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <h5 class="card-title"><img src="assets\images\Nota5.png"> - Sauvage</h5>
-                                <p class="card-text">Sauvage Dior - Perfume Masculino</p>
+                                <p class="card-text">Dior<br>Perfume Masculino</p>
 
                             </div>
                         </div>
