@@ -17,7 +17,7 @@
         <div class="text-center margin">Senha <input type="text" class="color-text"><br></div>
         <div>
             <div><button type="button" class="btn btn-success">Entrar</button></div>
-            <div><button type="button" class="btn btn-success">Sair</button></div>
+            <div><a href="../../index.php" class="btn btn-success" target="blank">Sair</a></div>
         </div>
         <div class="text-center"><a href="formulario.php" class="margin" onclick="#" target="_blank">Novo usuário?Clique aqui</a><br></div>
         <div class="text-center"><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
