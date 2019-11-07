@@ -12,18 +12,18 @@
 
 <body>
 
-    <div class="text-center color-text topmenu">
+    <div class="color-text mt-3">
         <div class="text-center margin">Login <input type="text" class="color-text"><br></div>
         <div class="text-center margin">Senha <input type="text" class="color-text"><br></div>
-        <div class="row">
-            <div class="col-md-5"><button type="button" class="btn btn-success">Entrar</button></div>
-            <div class="col-md-2"></div>
-            <div class="col-md-5"><button type="button" class="btn btn-success">Sair</button></div>
+        <div>
+            <div><button type="button" class="btn btn-success">Entrar</button></div>
+            <div><button type="button" class="btn btn-success">Sair</button></div>
         </div>
-        <div><a href="formulario.php" class="margin" onclick="#" target="_blank">Novo usuário?Clique aqui</a><br></div>
-        <div><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
+        <div class="text-center"><a href="formulario.php" class="margin" onclick="#" target="_blank">Novo usuário?Clique aqui</a><br></div>
+        <div class="text-center"><a href="#" class="margin" onclick="">Esqueceu sua senha?Clique aqui</a><br></div>
+        <div class="text-center"><img src="../../assets/images/logo.png" class="img-fundo1"></div>
     </div>
-    <img src="../../assets/images/logo.png" class="img-fundo text-center">
+
 
 
     <script src="assets/js/generic.js"></script>
