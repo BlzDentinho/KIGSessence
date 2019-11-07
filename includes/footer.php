@@ -29,7 +29,7 @@
                         <h5>Sobre-nós</h5>
                         <ul>
                             <li><a href="https://programadorviking.com.br/">Informações sobre o site</a></li>
-                            <li><a href="https://programadorviking.com.br/">Contato</a></li>
+                            <li>kigsessence@contato.br</a></li>
 
                         </ul>
                     </div>
