@@ -39,34 +39,33 @@
 
                     <div class="card-deck">
                         <div class="card" style="width: 18rem;">
-                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <img class="card-img-top" src="assets\images\Perfume4.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title" href="#">Individuel Montblanc</h5>
-                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><img src="assets\images\Nota1.png"> - Black Orchid</h5>
+                                <p class="card-text">Black Orchid Tom Ford - Perfume Feminino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume1.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title" href="#">Olympéa Intense</h5>
+                                <h5 class="card-title"><img src="assets\images\Nota2.png"> - Olympéa Intense</h5>
                                 <p class="card-text">Olympéa Intense Paco Rabanne - Perfume Feminino</p>
-                                                            </div>
+                            </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume2.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title">Individuel Montblanc</h5>
-                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><img src="assets\images\Nota3.png"> - L'interdit Parfum</h5>
+                                <p class="card-text">L'interdit Givenchy - Perfume Feminino</p>
+
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="assets\images\Perfume3.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title">Individuel Montblanc</h5>
-                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><img src="assets\images\Nota3.png"> - Light Blue</h5>
+                                <p class="card-text">Light Blue Dolce & Gabbana - Perfume Feminino</p>
+
                             </div>
                         </div>
                     </div>
@@ -75,37 +74,35 @@
 
 
                 <div class="carousel-item" data-interval="2000">
-                <div class="card-deck">
-                        <div class="card" style="width: 18rem;">
-                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                    <div class="card-deck">
+                    <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="assets\images\Perfume44.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title">Individuel Montblanc</h5>
-                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><img src="assets\images\Nota1.png"> - Uomo Intense</h5>
+                                <p class="card-text">Uomo Intense Valentino - Perfume Masculino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
-                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <img class="card-img-top" src="assets\images\Perfume11.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title">Individuel Montblanc</h5>
-                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><img src="assets\images\Nota3.png"> - The One</h5>
+                                <p class="card-text">The One Dolce & Gabbana - Perfume Masculino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
-                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <img class="card-img-top" src="assets\images\Perfume22.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title">Individuel Montblanc</h5>
-                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><img src="assets\images\Nota4.png"> - Armani Code</h5>
+                                <p class="card-text">Armani Code Giorgio Armani - Perfume Masculino</p>
+
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
-                            <img class="card-img-top" src="assets\images\Perfume1.png" alt="Card image cap">
+                            <img class="card-img-top" src="assets\images\Perfume33.jpg" alt="Card image cap">
                             <div class="card-body">
-                                <h5 class="card-title">Individuel Montblanc</h5>
-                                <p class="card-text">Individuel Montblanc - Perfume Masculino - Eau de Toilette</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <h5 class="card-title"><img src="assets\images\Nota5.png"> - Sauvage</h5>
+                                <p class="card-text">Sauvage Dior - Perfume Masculino</p>
+
                             </div>
                         </div>
                     </div>
