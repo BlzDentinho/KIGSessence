@@ -33,10 +33,10 @@
 
                         </ul>
                     </div>
-                    <div class="col-sm-3">
-                   <img src="../assets/images/facebook.png" class="marginc">
-                   <img src="../assets/images/instagram.png"class="marginc">
-                   <img src="../assets/images/twitter.png" class="marginc">
+                    <div class="col-sm-3 m-4 mx-auto" style="width: 10px;">
+                   <img src="../assets/images/facebook.png">
+                   <img src="../assets/images/instagram.png">
+                   <img src="../assets/images/twitter.png">
                     </div>
                 </div>
             </div>
