@@ -15,7 +15,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-3">
-                        <h2 class="logo"><a href="http://localhost/KIGSessence/#"><img src="../assets\images\logo.png" width="200" height="200" class="d-inline-block align-top" alt=""></a></h2>
+                        <h2 class="logo"><a href="http://localhost/KIGSessence/#"><img src="/KIGSessence/assets/images\logo.png" width="200" height="200" class="d-inline-block align-top" alt=""></a></h2>
                     </div>
                     <div class="col-sm-2">
                         <h5>Inicio</h5>
