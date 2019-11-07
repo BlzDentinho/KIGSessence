@@ -43,7 +43,7 @@
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
-                            <img class="card-img-top" src="assets\images\Perfume1.jpg" alt="Card image cap">
+                        <a href="pages/perfume/telaperfume.php"><img class="card-img-top" src="assets\images\Perfume1.jpg"></a>
                             <div class="card-body">
                                 <h5 class="card-title cor1"><img src="assets\images\Nota2.png"> - Olympéa Intense</h5>
                                 <p class="card-text cor1">Paco Rabanne<br>Perfume Feminino</p>
@@ -229,7 +229,7 @@
                         <h5>Sobre-nós</h5>
                         <ul>
                             <li><a href="https://programadorviking.com.br/">Informações sobre o site</a></li>
-                            <li><a href="https://programadorviking.com.br/">Contato</a></li>
+                            <li>kigsessence@contato.com</a></li>
 
                         </ul>
                     </div>
@@ -251,6 +251,11 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+
+    <?php include("includes/footer.php"); ?>
+
 
 </body>
 
