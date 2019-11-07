@@ -22,7 +22,7 @@
     <div class="cor-fundo">
         <div class="row no-gutters">
             <div class="col-md-2 linha borda-w text-center">
-                <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top" alt="">
+                <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt="">
             </div>
             <div class="col-md-8 linha borda-w">
                 <form class="margin1">

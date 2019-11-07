@@ -9,6 +9,10 @@
  * prefixes.
  */
 
+.tamanho-fundo {
+    background-size: 500px;
+}
+
 body {
     margin: 0;
     padding: 0;
