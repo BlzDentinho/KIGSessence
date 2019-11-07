@@ -33,11 +33,10 @@
 
                         </ul>
                     </div>
-
                     <div class="col-sm-3">
-                        <a href="https://programadorviking.com.br/">
-                            <button type="button" onclick="abrir()" class="btn btn-default">Contato</button>
-                        </a>
+                   <img src="../assets/images/facebook.png" class="marginc">
+                   <img src="../assets/images/instagram.png"class="marginc">
+                   <img src="../assets/images/twitter.png" class="marginc">
                     </div>
                 </div>
             </div>
