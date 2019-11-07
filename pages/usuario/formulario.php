@@ -49,8 +49,8 @@
                     <div class="col-md-3 color-text1"></div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6 color-text1"></div>
-                    <div><a href="#" onclick="document.getElementById('form-id').submit();" class="btn btn-default" role="button">Salvar</a><br></div>
+                    <div class="col-md-4 color-text1"></div>
+                    <div class="col-md-4 color-text1"><a href="#" onclick="document.getElementById('form-id').submit();" class="btn btn-success" role="button">Salvar</a><br></div>
                     <div class="col-md-4 color-text1"></div>
                     <div class="col-md-4 color-text1"></div>
                 </div>
