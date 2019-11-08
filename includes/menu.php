@@ -22,7 +22,7 @@
     <div class="cor-fundo">
         <div class="row no-gutters">
             <div class="col-md-2 linha borda-w text-center">
-                <img src="assets\images\logo.png" width="150" height="150" class="d-inline-block align-top" alt="">
+                <img src="\kigsessence\assets\images\logo.png" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt="">
             </div>
             <div class="col-md-8 linha borda-w">
                 <form class="margin1">
@@ -32,7 +32,7 @@
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-            <button  type="button"  onclick="abrir()" class="btn btn-success">Login</button>
+            <button type="button" class="btn btn-success" onclick="abrir()">Login</button>
             </div>
         </div>
     </div>

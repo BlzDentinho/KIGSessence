@@ -15,7 +15,7 @@
     margin: 0 auto;
     margin-top: 10px;
     line-height: 25px;
-    }
+}
 
 .btn-lg {
     background-color: rgb(210, 74, 214);
@@ -70,11 +70,8 @@
     height: 400px;
     width: 400px;
     z-index: -1;
-    top: 300px;
+    top: 100px;
     left: 150px;
-}
-
-.left {
-    left:5px;
+    position: absolute;
 }
 

@@ -20,7 +20,7 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
+    color: white !important;
     transition: color 0.3s ease;
 }
 
