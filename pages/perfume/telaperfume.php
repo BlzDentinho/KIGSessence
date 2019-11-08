@@ -86,9 +86,9 @@
             </div>
         </div>
         <div class="row container-fluid esquerdo">
-            <div class="col-sm-6">
+            <div class="col-sm-3">
                 <div>
-                    <h2>Sua avaliação<h2>
+                <h2 align="right">Sua avaliação<h2>
                 </div>
 
                 
@@ -103,9 +103,9 @@
 
 
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-5">
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-5">
             </div>
         </div>
     </div>
