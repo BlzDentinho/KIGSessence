@@ -9,10 +9,6 @@
  * prefixes.
  */
 
-.tamanho-fundo {
-    background-size: 500px;
-}
-
 body {
     margin: 0;
     padding: 0;
@@ -24,7 +20,7 @@ body {
 
 a {
     text-decoration: none;
-    color: white;
+    color: white !important;
     transition: color 0.3s ease;
 }
 
