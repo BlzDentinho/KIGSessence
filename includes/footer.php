@@ -34,9 +34,9 @@
                         </ul>
                     </div>
                     <div class="col-sm-3 m-5">
-                    <a href="http://www.facebook.com" target="blank"><img src="../assets/images/facebook.png" class="p-2"></a>
-                    <a href="http://www.instagram.com" target="blank"><img src="../assets/images/instagram.png" class="p-2"></a>
-                  <a href="http://www.twitter.com" target="blank"> <img src="../assets/images/twitter.png" class="p-2"></a>
+                    <a href="http://www.facebook.com" target="blank"><img src="/KIGSessence/assets/images/facebook.png" class="p-2"></a>
+                    <a href="http://www.instagram.com" target="blank"><img src="/KIGSessence/assets/images/instagram.png" class="p-2"></a>
+                  <a href="http://www.twitter.com" target="blank"> <img src="/KIGSessence/assets/images/twitter.png" class="p-2"></a>
                     </div>
                 </div>
             </div>
