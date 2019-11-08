@@ -86,9 +86,9 @@
             </div>
         </div>
         <div class="row container-fluid esquerdo">
-            <div class="col-sm-6">
+            <div class="col-sm-3">
                 <div>
-                    <h2>Sua avaliação<h2>
+                <h2 align="right">Sua avaliação<h2>
                 </div>
                 <ul class="rate-area">
                     <hr />
@@ -99,10 +99,14 @@
                     <input type="radio" id="1-star" name="rating" value="1" /><label for="1-star" title="Pessimo">1 star </label>
                 </ul>
             </div>
+<<<<<<< HEAD
 
             <div class="col-sm-3">
+=======
+            <div class="col-sm-5">
+>>>>>>> 3635e843328049b7947c0fa9d9cc9754bab68f91
             </div>
-            <div class="col-sm-3">
+            <div class="col-sm-5">
             </div>
         </div>
     </div>

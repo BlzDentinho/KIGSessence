@@ -7,14 +7,14 @@
 }
 .btn {
     color: white;
-    background-color: #71ab9a;
-    border-radius: 20px;
-    border: none;
-    width: 150px;
+    background-color: #71ab9a !important; 
+    border-radius: 20px !important;
+    border: none !important;
+    width: 150px !important;
     display: block;
-    margin: 0 auto;
-    margin-top: 10px;
-    line-height: 25px;
+    margin: 0 auto !important;
+    margin-top: 10px !important;
+    line-height: 25px !important;
 }
 
 .btn-lg {
