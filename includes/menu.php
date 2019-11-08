@@ -32,7 +32,7 @@
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-            <button  type="button"  onclick="abrir()" class="btn btn-success">Login</button>
+            <button type="button" class="btn btn-success">Login</button>
             </div>
         </div>
     </div>
