@@ -2,6 +2,9 @@
     padding: 5px;
 }
 
+.margin5{
+    padding: 15px;
+}
 .btn {
     color: white;
     background-color: #71ab9a !important; 
