@@ -2,6 +2,18 @@
     padding: 5px;
 }
 
+.btn {
+    color: white;
+    background-color: #71ab9a;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+}
+
 .btn-lg {
     background-color: rgb(210, 74, 214);
     border: solid 1px rgb(210, 74, 214);
