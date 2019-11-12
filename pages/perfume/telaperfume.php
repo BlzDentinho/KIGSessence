@@ -16,6 +16,9 @@
 </head>
 
 <body>
+<?php
+    include('includes/menu.php');
+    ?>
     <div class="container">
         <div class="row">
             <div class="col-sm-4">
