@@ -37,7 +37,7 @@
                 <div class="card" style="width: 18rem;">
                     <div class="card-body">
                         <h5 class="card-title"><img src="../../assets/images/nota1.png">- <b>Ernesto</b></h5>
-                        <p class="card-text">Perfume feminino, más minha mulher ama quando passo!.</p>
+                        <p class="card-text">Perfume feminino, mas minha mulher ama quando passo!.</p>
                     </div>
                 </div>
                 <div class="card" style="width: 18rem;">
@@ -89,26 +89,23 @@
             </div>
         </div>
         <div class="row container-fluid esquerdo">
-            <div class="col-sm-3">
+            <div class="col-sm-6">
                 <div>
-                <h2 align="right">Sua avaliação<h2>
+                    <h2>Sua avaliação<h2>
                 </div>
-
-                
                 <ul class="rate-area">
                     <hr />
-                    <input type="radio" id="5-star" name="rating" value="5" /><label for="5-star" title="Amazing">5 stars</label>
-                    <input type="radio" id="4-star" name="rating" value="4" /><label for="4-star" title="Good">4 stars</label>
-                    <input type="radio" id="3-star" name="rating" value="3" /><label for="3-star" title="Average">3 stars</label>
-                    <input type="radio" id="2-star" name="rating" value="2" /><label for="2-star" title="Not Good">2 stars</label>
-                    <input type="radio" id="1-star" name="rating" value="1" /><label for="1-star" title="Bad">1 star </label>
+                    <input type="radio" id="5-star" name="rating" value="5" /><label for="5-star" title="Excelente">5 stars</label>
+                    <input type="radio" id="4-star" name="rating" value="4" /><label for="4-star" title="Bom">4 stars</label>
+                    <input type="radio" id="3-star" name="rating" value="3" /><label for="3-star" title="Regular">3 stars</label>
+                    <input type="radio" id="2-star" name="rating" value="2" /><label for="2-star" title="Ruim">2 stars</label>
+                    <input type="radio" id="1-star" name="rating" value="1" /><label for="1-star" title="Pessimo">1 star </label>
                 </ul>
-
-
             </div>
-            <div class="col-sm-5">
+
+            <div class="col-sm-3">
             </div>
-            <div class="col-sm-5">
+            <div class="col-sm-3">
             </div>
         </div>
     </div>
