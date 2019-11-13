@@ -63,7 +63,7 @@
                 <div class="dropdown-open3 menu-item">
                     <li>Perfumes <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
                     <ul class="dropdown-menu3" style="display:none">
-                        <a href="#">
+                        <a href="../busca.php">
                             <li>Perfume 1</li>
                         </a>
                         <a href="#">

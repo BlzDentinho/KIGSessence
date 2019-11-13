@@ -5,7 +5,7 @@
     <title>KIGSessence</title>
     <meta charset="utf-8">
     
-    <?php include("../../includes/header.php"); ?>
+    <?php include("includes/header.php"); ?>
 
     <style>
         <style>.linha {
@@ -37,7 +37,7 @@
 <body>
 
     <?php
-    include('../../includes/menu.php');
+    include("includes/menu.php");
     ?>
     
     <div class="container-fluid linha-palco text-center">
@@ -46,7 +46,7 @@
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
-                        <img src="../../assets/images/fortune.png" height="220" />
+                        <img src="assets/images/fortune.png" height="220" />
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
-                        <img src="../../assets/images/521men.png" height="220" />
+                        <img src="assets/images/521men.png" height="220" />
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
-                        <img src="../../assets/images/fastcar.png" height="220" />
+                        <img src="assets/images/fastcar.png" height="220" />
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
-                        <img src="../../assets/images/jump_life.png" height="220" />
+                        <img src="assets/images/jump_life.png" height="220" />
                     </div>
                 </div>
             </div>
@@ -116,7 +116,7 @@
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
-                        <img src="../../assets/images/rosevip.png" height="220" />
+                        <img src="assets/images/rosevip.png" height="220" />
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@
                 <div class="row"></div>
                 <div class="row">
                     <div class="mx-auto">
-                        <img src="../../assets/images/angelina.png" height="220" />
+                        <img src="assets/images/angelina.png" height="220" />
                     </div>
                 </div>
             </div>

@@ -2,12 +2,13 @@
     padding: 5px;
 }
 
-.margin5{
+.margin5 {
     padding: 15px;
 }
+
 .btn {
     color: white;
-    background-color: #71ab9a !important; 
+    background-color: #71ab9a !important;
     border-radius: 20px !important;
     border: none !important;
     width: 150px !important;
@@ -74,4 +75,3 @@
     left: 150px;
     position: absolute;
 }
-
