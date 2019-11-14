@@ -82,7 +82,7 @@
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota1.png">- <b>Francisco</b></h5>
-                            <p class="card-text">Um amor por esse perfume, quando minha mulher passa eu me apaixonpo cada vez mais por ela, nota 100!.</p>
+                            <p class="card-text">Um amor por esse perfume, quando minha mulher passa eu me apaixono cada vez mais por ela, nota 100.</p>
                         </div>
                     </div>
                 </div>
