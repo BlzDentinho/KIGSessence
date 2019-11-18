@@ -70,7 +70,7 @@
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota4.png">- <b>Louise</b></h5>
-                            <p class="card-text">Meia boca, recomendo para as pessoas mais jobens!</p>
+                            <p class="card-text">Meia boca, recomendo para as pessoas mais jovens!</p>
                         </div>
                     </div>
                     <div class="card" style="width: 18rem;">
