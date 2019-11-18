@@ -28,8 +28,7 @@
                     <div class="col-sm-2">
                         <h5>Sobre-nós</h5>
                         <ul>
-                           <p class="contato">Informações sobre o site</p>
-
+                           <p class="contato">Sobre o site</p>
                         </ul>
                     </div>
                     <div class="col-sm-3 m-5">
