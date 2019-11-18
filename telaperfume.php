@@ -36,13 +36,13 @@
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota1.png">- <b>Ernesto</b></h5>
-                            <p class="card-text">Perfume feminino, mas minha mulher ama quando passo!.</p>
+                            <p class="card-text">Perfume feminino, mas minha mulher ama quando passo!</p>
                         </div>
                     </div>
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota2.png">- <b>Ronald</b></h5>
-                            <p class="card-text">Perfume muito bom, comprei pra minha esposa e ela amou!.</p>
+                            <p class="card-text">Perfume muito bom, comprei pra minha esposa e ela amou!</p>
                         </div>
                     </div>
                     <div class="card" style="width: 18rem;">
