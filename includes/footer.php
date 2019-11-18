@@ -20,9 +20,9 @@
                     <div class="col-sm-2">
                         <h5>Inicio</h5>
                         <ul>
-                            <li><a href="https://programadorviking.com.br/">Home</a></li>
-                            <li><a href="https://bit.ly/front-end-curso-completo-promocao-01">Marcas</a></li>
-                            <li><a href="https://programadorviking.com.br/">Melhores perfumes</a></li>
+                            <li><p class="contato">Home</p></li>
+                            <li><p class="contato">Marcas</p></li>
+                            <li><p class="contato">Melhores perfumes</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-2">
