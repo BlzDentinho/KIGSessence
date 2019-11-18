@@ -22,7 +22,7 @@
     <div class="cor-fundo">
         <div class="row no-gutters">
             <div class="col-md-2 linha borda-w text-center">
-                <a img src="\kigsessence\assets\images\logo.png" href="http://localhost/KIGSessence/#" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt=""></a>
+                <img src="\kigsessence\assets\images\logo.png" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt="">
             </div>
             <div class="col-md-8 linha borda-w">
                 <form class="margin1">
