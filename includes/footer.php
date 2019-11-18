@@ -20,9 +20,9 @@
                     <div class="col-sm-2">
                         <h5>Inicio</h5>
                         <ul>
-                            <li><p class="contato">Home</p></li>
-                            <li><p class="contato">Marcas</p></li>
-                            <li><p class="contato">Melhores perfumes</p></li>
+                            <li><p>Home</p></li>
+                            <li><p>Marcas</p></li>
+                            <li><p>Melhores perfumes</p></li>
                         </ul>
                     </div>
                     <div class="col-sm-2">
