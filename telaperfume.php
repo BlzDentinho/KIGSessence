@@ -48,7 +48,7 @@
                     <div class="card" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota5.png">- <b>Chica</b></h5>
-                            <p class="card-text">Comprei e me arrependi, cheiro de gente morta!.</p>
+                            <p class="card-text">Comprei e me arrependi, cheiro de gente morta!</p>
                         </div>
                     </div>
                     <div class="card" style="width: 18rem;">
