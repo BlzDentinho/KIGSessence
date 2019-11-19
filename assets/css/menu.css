@@ -148,14 +148,3 @@ a:hover {
 .fundo-preto {
     background: black;
 }
-
-.btn {
-    color: white;
-    background-color: #71ab9a;
-    border-radius: 20px;
-    border: none;
-    width: 150px;
-    display: block;
-    margin-top: 10px;
-    line-height: 25px;
-}

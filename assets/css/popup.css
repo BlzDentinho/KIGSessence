@@ -8,7 +8,7 @@
 
 .btn {
     color: white;
-    background-color: #71ab9a !important;
+    background-color: #71ab9a;
     border-radius: 20px !important;
     border: none !important;
     width: 150px !important;
@@ -21,6 +21,12 @@
 .btn-lg {
     background-color: rgb(210, 74, 214);
     border: solid 1px rgb(210, 74, 214);
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
 }
 
 .margin1 {
@@ -74,10 +80,4 @@
     top: 100px;
     left: 150px;
     position: absolute;
-}
-
-.btn-success {
-    color: #fff;
-    background-color: #28a745;
-    border-color: #28a745;
 }
