@@ -23,7 +23,7 @@
                         <ul>
                             <li><p>Home</p></li>
                             <li><p>Marcas</p></li>
-                            <li><p>Melhores perfumes</p></li>
+                            <li><a href="ranking.php">Melhores perfumes</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-2">
