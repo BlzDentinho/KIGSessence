@@ -30,6 +30,7 @@
                         <h5>Sobre-nós</h5>
                         <ul>
                            <p class="contato">Sobre o site</p>
+                           <p class="contato">kigsessence@contato.com.br</p>
                         </ul>
                     </div>
                     <div class="col-sm-3 m-5">
