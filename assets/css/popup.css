@@ -8,7 +8,7 @@
 
 .btn {
     color: white;
-    background-color: #71ab9a;
+    background-color: #71ab9a !important;
     border-radius: 20px !important;
     border: none !important;
     width: 150px !important;
@@ -20,7 +20,7 @@
 
 .btn-success {
     color: #fff;
-    background-color: #28a745;
+    background-color: #71ab9a;
     border-color: #28a745;
 }
 
