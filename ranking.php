@@ -30,9 +30,9 @@
             <p>Aqui esta o ranking</p>
         </div>
         <div>
-            <h1 class=".rank">Top 10 - Perfumes mais votados</h1>
+            <h1 class=".rank mt-5">Top 10 - Perfumes mais votados</h1>
 
-            <div class="container">
+            <div class="container mt-5">
                 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-interval="10000">
@@ -123,8 +123,8 @@
             </div>
         </div>
         <div>
-            <h1 class=".rank">Perfumes masculinos mais votados</h1>
-            <div class="container">
+            <h1 class=".rank mt-5">Perfumes masculinos mais votados</h1>
+            <div class="container mt-5">
                 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-interval="10000">
@@ -215,9 +215,9 @@
             </div>
         </div>
         <div>
-            <h1 class=".rank">Perfumes femininos mais visualizados</h1>
+            <h1 class=".rank mt-5">Perfumes femininos mais visualizados</h1>
 
-            <div class="container">
+            <div class="container mt-5">
                 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-interval="10000">
