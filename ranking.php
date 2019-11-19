@@ -24,20 +24,20 @@
     include('includes/menu.php');
     ?>
 
-    <div>
+    <div class="text-center">
         <h1 class=".rank mt-5">Top 10 - Perfumes mais votados</h1>
 
 
 
     </div>
-    <div>
+    <div class="text-center">
     <h2 class=".rank mt-5">Perfumes masculinos mais votados</h1>
   
 
 
 
     </div>
-    <div>
+    <div class="text-center">
     <h3 class=".rank mt-5">Perfumes femininos mais votados</h1>
   
 
