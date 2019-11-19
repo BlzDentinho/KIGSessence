@@ -121,7 +121,7 @@
 
 
 
-        <h2 class="text-center rank mt-5">Perfumes masculinos mais votados</h1>
+        <h1 class="text-center rank mt-5">Perfumes masculinos mais votados</h1>
             <div class="mt-5">
                 <div id="carouselExampleInterval1" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
@@ -218,7 +218,7 @@
 
 
 
-            <h3 class="text-center rank mt-5">Perfumes femininos mais votados</h1>
+            <h1 class="text-center rank mt-5">Perfumes femininos mais votados</h1>
                 <div class="mt-5">
                     <div id="carouselExampleInterval2" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
