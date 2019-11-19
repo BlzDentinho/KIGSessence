@@ -18,15 +18,14 @@
     line-height: 25px !important;
 }
 
-.btn-lg {
-    background-color: rgb(210, 74, 214);
-    border: solid 1px rgb(210, 74, 214);
-}
-
-.btn-success {
+.btn-success1 {
     color: #fff;
-    background-color: #28a745;
+    background-color: #28a745 !important;
     border-color: #28a745;
+    .btn-lg {
+        background-color: rgb(210, 74, 214);
+        border: solid 1px rgb(210, 74, 214);
+    }
 }
 
 .margin1 {
