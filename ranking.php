@@ -24,11 +24,29 @@
     include('includes/menu.php');
     ?>
 
-  <div class="container">
-  <h1>Este é o setor de ranking</h1>    
-  <p>Aqui esta o ranking</p>
-  </div>
-    
+    <div class="container">
+        <div>
+            <h1 class=".rank">Este é o setor de ranking</h1>
+
+            <p>Aqui esta o ranking</p>
+        </div>
+        <div>
+            <h1 class=".rank">Top 10 - Perfumes mais votados</h1>
+
+            <p>Carrousel do do top 10</p>
+        </div>
+        <div>
+            <h1 class=".rank">Perfumes masculinos mais visualizados</h1>
+
+            <p>Carrousel dos perfumes masculinos</p>
+        </div>
+        <div>
+            <h1 class=".rank">Perfumes femininos mais visualizados</h1>
+
+            <p>Carrousel dos perfumes femininos</p>
+        </div>
+    </div>
+
 
 
 
