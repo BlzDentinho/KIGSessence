@@ -1,8 +1,9 @@
 Iniciei a pagina do ranking, inseri uns carroceis de acordo com as categorias solicitadas, 
 (top 10, perfumes masculinos e femininos) mas preciso saber se vamos fazer uma pagina geral
 ou se fazer uma pagina por categoria. Outra coisa que preciso saber, o tamanho das imagens no
-carousel, são proprias das imagens ou existe algum css nelas? Conforme falei ao Ivan, comecei a trabalhar 
-nesta terça-feira. Retornarei na quinta-feira.
+carousel, são proprias das imagens ou existe algum css nelas? Inseri algumas imagens novas na
+sessão de perfumes masculinos mais votados, mas é necessário ver o alinhamento.Conforme falei ao Ivan, 
+comecei a trabalhar nesta terça-feira. Retornarei na quinta-feira.
 
 Att.
 
