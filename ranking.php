@@ -136,7 +136,7 @@
                                     </div>
                                 </div>
                                 <div class="card" style="width: 18rem;">
-                                    <a href="telaperfume.php"><img class="card-img-top" src="assets\images\tomfordM.png" style="width: 190px"></a>
+                                    <a href="telaperfume.php"><img class="text-center card-img-top" src="assets\images\tomfordM.png" style="width: 190px"></a>
                                     <div class="card-body">
                                         <h5 class="card-title cor1"><img src="assets\images\Nota3.png"> - Tabaco Vanille</h5>
                                         <p class="card-text cor1">Tom Ford<br>Perfume Masculino</p>
