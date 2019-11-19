@@ -61,7 +61,7 @@
         <ul id="menu">
             <a href="#">
                 <div class="dropdown-open3 menu-item">
-                    <li>Perfumes <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
+                    <li>Perfumes</li>
                     <ul class="dropdown-menu3" style="display:none">
                         <a href="../busca.php">
                             <li>Perfume 1</li>
@@ -77,7 +77,7 @@
             </a>
             <a href="#">
                 <div class="dropdown-open2 menu-item">
-                    <li>Marcas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
+                    <li>Marcas</li>
                     <ul class="dropdown-menu2" style="display:none">
                         <a href="#">
                             <li>Marca 1</li>
@@ -93,7 +93,7 @@
             </a>
             <a href="#">
                 <div class="dropdown-open1 menu-item">
-                    <li>Relevaâncias mais vendidas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
+                    <li>Relevaâncias mais vendidas</li>
                     <ul class="dropdown-menu1" style="display:none">
                         <a href="#">
                             <li>Perfume relevante 1</li>
@@ -109,7 +109,7 @@
             </a>
             <a href="#">
                 <div class="dropdown-open menu-item">
-                    <li>Melhores perfumes<img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
+                    <li>Melhores perfumes</li>
                     <ul class="dropdown-menu4" style="display:none">
                         <a href="#">
                             <li>Perfume relevante 1</li>
