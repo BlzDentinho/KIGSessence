@@ -145,7 +145,7 @@
                                 <div class="card" style="width: 18rem;">
                                     <img class="card-img-top" src="assets\images\malbecverl.png" style="width: 230px" alt="Card image cap">
                                     <div class="card-body">
-                                        <h5 class="card-title cor1"><img src="assets\images\Nota4.png"> - Malbec Colonia Verl</h5>
+                                        <h5 class="card-title cor1"><img src="assets\images\Nota4.png"> - Malbec Verl</h5>
                                         <p class="card-text cor1">Boticário<br>Perfume Maculino</p>
 
                                     </div>
