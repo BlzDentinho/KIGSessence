@@ -39,7 +39,7 @@
                             <img class="card-img-top" src="assets\images\Perfume4.jpg" alt="Card image cap">
                             <div class="card-body">
                                 <h5 class="card-title cor1"><img src="assets\images\Nota1.png"> - Black Orchid</h5>
-                                <p class="card-text cor1">To1m Ford<br>Perfume Feminino</p>
+                                <p class="card-text cor1">Tom Ford<br>Perfume Feminino</p>
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
