@@ -288,7 +288,7 @@
                                         <img class="card-img-top" src="assets\images\laviebelle.png" alt="Card image cap">
                                         <div class="card-body">
                                             <h5 class="card-title"><img src="assets\images\Nota5.png"> - Lavie Belle</h5>
-                                            <p class="card-text">Dior<br>Perfume Feminino</p>
+                                            <p class="card-text"> Eau de Parfum<br>Perfume Feminino</p>
 
                                         </div>
                                     </div>
