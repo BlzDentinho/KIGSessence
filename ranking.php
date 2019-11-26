@@ -277,7 +277,7 @@
                                         </div>
                                     </div>
                                     <div class="card" style="width: 18rem;">
-                                        <img class="card-img-top" src="assets\images\Perfume22.jpg" alt="Card image cap">
+                                        <img class="card-img-top" src="assets\images\212viprose.png" alt="Card image cap">
                                         <div class="card-body">
                                             <h5 class="card-title"><img src="assets\images\Nota4.png"> - 212 VIP rose</h5>
                                             <p class="card-text">Carolina Herrera<br>Perfume Feminino</p>
