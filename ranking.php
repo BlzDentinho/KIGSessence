@@ -151,7 +151,7 @@
                                     </div>
                                 </div>
                                 <div class="card" style="width: 18rem;">
-                                    <img class="card-img-top" src="assets\images\aventuscreed.png" alt="Card image cap">
+                                    <img class="card-img-top" src="assets\images\aventus1.jpg" alt="Card image cap">
                                     <div class="card-body">
                                         <h5 class="card-title cor1"><img src="assets\images\Nota5.png">Aventus by Creed</h5>
                                         <p class="card-text cor1">Eau de Parfum<br>Perfume Masculino</p>
