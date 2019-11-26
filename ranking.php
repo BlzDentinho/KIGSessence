@@ -129,7 +129,7 @@
 
                             <div class="card-deck">
                                 <div class="card" style="width: 18rem;">
-                                    <img class="card-img-top" src="assets\images\212vip.png" style="width: 230px" alt="Card image cap">
+                                    <img class="card-img-top" src="assets\images\212vip1.png" style="width: 230px" alt="Card image cap">
                                     <div class="card-body">
                                         <h5 class="card-title cor1"><img src="assets\images\Nota1.png"> - 212 VIP</h5>
                                         <p class="card-text cor1">Carolina Herrera<br>Perfume Masculino</p>
