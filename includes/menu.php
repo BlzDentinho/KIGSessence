@@ -66,7 +66,7 @@
                 
                 </div>
             </a>
-            <a href="#">
+            <a href="novidades.php">
                 <div class="dropdown-open1 menu-item">
                     <li>Novidades</li>
                 </div>
