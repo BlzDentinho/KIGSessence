@@ -17,7 +17,7 @@
                     <div class="col-sm-2">
                         <h5>Sobre-nós</h5>
                         <ul>
-                           <p class="contato">Sobre o site</p>
+                        <li><a href="Sobre.php">Sobre o site</a></li>
                            <p class="contato">kigsessence@contato.com.br</p>
                         </ul>
                     </div>
