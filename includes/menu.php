@@ -22,7 +22,7 @@
     <div class="cor-fundo">
         <div class="row no-gutters">
             <div class="col-md-2 linha borda-w text-center">
-            <a href="http://localhost/KIGSessence/#"><img src="\kigsessence\assets\images\logo.png" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt=""></a>
+                <a href="http://localhost/KIGSessence/#"><img src="\kigsessence\assets\images\logo.png" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt=""></a>
             </div>
             <div class="col-md-8 linha borda-w">
                 <form class="margin1">
@@ -32,7 +32,7 @@
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-            <button type="button" class="btn btn-success" onclick="abrir()">Login</button>
+                <button type="button" class="btn btn-success" onclick="abrir()">Login</button>
             </div>
         </div>
     </div>
@@ -94,17 +94,6 @@
             <a href="#">
                 <div class="dropdown-open1 menu-item">
                     <li>Relevaâncias mais vendidas</li>
-                    <ul class="dropdown-menu1" style="display:none">
-                        <a href="#">
-                            <li>Perfume relevante 1</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume relevante 2</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume relevante 3</li>
-                        </a>
-                    </ul>
                 </div>
             </a>
             <a href="#">
@@ -123,7 +112,7 @@
                     </ul>
                 </div>
             </a>
-            <a href="" target="_blank">
+            <a href="sobre.php" target="_blank">
                 <li>Sobre nós</li>
             </a>
         </ul>
