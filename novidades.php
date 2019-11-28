@@ -20,7 +20,9 @@
 
 <body style="overflow-x:hidden">
     
-
+<?php
+    include('includes/menu.php');
+    ?>
 
 <div class="container-fluid">
 
