@@ -112,7 +112,7 @@
                     </ul>
                 </div>
             </a>
-            <a href="sobre.php" target="_blank">
+            <a href="sobre.php" target="_self">
                 <li>Sobre nós</li>
             </a>
         </ul>
