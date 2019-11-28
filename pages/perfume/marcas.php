@@ -22,7 +22,6 @@
 
 
     <div class="container">
-
         <div class="row">
             <div class="col-10">
                 <div class="container linha-palco cor1 espaco">
