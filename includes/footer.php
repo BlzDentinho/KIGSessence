@@ -9,7 +9,6 @@
                     <div class="col-sm-2">
                         <h5>Inicio</h5>
                         <ul>
-                            <li><p>Home</p></li>
                             <li><p>Marcas</p></li>
                             <li><a href="ranking.php">Melhores perfumes</a></li>
                         </ul>
