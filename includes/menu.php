@@ -59,36 +59,10 @@
       but hey, it's pure CSS magic.
       -->
         <ul id="menu">
-            <a href="#">
-                <div class="dropdown-open3 menu-item">
-                    <li>Perfumes</li>
-                    <ul class="dropdown-menu3" style="display:none">
-                        <a href="../busca.php">
-                            <li>Perfume 1</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume 2</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume 3</li>
-                        </a>
-                    </ul>
-                </div>
-            </a>
+            
             <a href="#">
                 <div class="dropdown-open2 menu-item">
                     <li>Marcas</li>
-                    <ul class="dropdown-menu2" style="display:none">
-                        <a href="#">
-                            <li>Marca 1</li>
-                        </a>
-                        <a href="#">
-                            <li>Marca 2</li>
-                        </a>
-                        <a href="#">
-                            <li>Marca 3</li>
-                        </a>
-                    </ul>
                 </div>
             </a>
             <a href="#">
@@ -98,18 +72,7 @@
             </a>
             <a href="#">
                 <div class="dropdown-open menu-item">
-                    <li>Melhores perfumes</li>
-                    <ul class="dropdown-menu4" style="display:none">
-                        <a href="#">
-                            <li>Perfume relevante 1</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume relevante 2</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume relevante 3</li>
-                        </a>
-                    </ul>
+                <a href="ranking.php"><li>Melhores perfumes</li></a>
                 </div>
             </a>
             <a href="sobre.php" target="_self">
