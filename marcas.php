@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
 
-    <?php include("../../includes/header.php"); ?>
+    <?php include("includes/header.php"); ?>
 
     <script>
         $(document).ready(function() {
@@ -152,7 +152,7 @@
     
 </body>
 
-<?php include("../../includes/footer.php"); ?>
+<?php include("includes/footer.php"); ?>
 
 
 
