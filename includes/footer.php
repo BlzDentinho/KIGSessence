@@ -1,15 +1,4 @@
 
-<html>
-
-<head>
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/css/home.css">
-
-
-</head>
-
-<body>
     <div class="padding">
         <footer id="myFooter">
             <div class="container">
@@ -20,17 +9,15 @@
                     <div class="col-sm-2">
                         <h5>Inicio</h5>
                         <ul>
-                            <li><a href="https://programadorviking.com.br/">Home</a></li>
-                            <li><a href="https://bit.ly/front-end-curso-completo-promocao-01">Marcas</a></li>
-                            <li><a href="https://programadorviking.com.br/">Melhores perfumes</a></li>
+                            <li><p>Marcas</p></li>
+                            <li><a href="ranking.php">Melhores perfumes</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-2">
                         <h5>Sobre-nós</h5>
                         <ul>
-                            <li><a href="https://programadorviking.com.br/">Informações sobre o site</a></li>
-                            <li>kigsessence@contato.br</a></li>
-
+                        <li><a href="Sobre.php">Sobre o site</a></li>
+                           <p class="contato">kigsessence@contato.com.br</p>
                         </ul>
                     </div>
                     <div class="col-sm-3 m-5">
@@ -45,6 +32,3 @@
             </div>
         </footer>
     </div>
-</body>
-
-</html>

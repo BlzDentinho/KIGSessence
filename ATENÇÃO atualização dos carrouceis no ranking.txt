@@ -1,0 +1,12 @@
+Finalizei a tela de ranking, consegui criar um arquivo base de imagem de perfume para usar nos carroceis.
+Vou anexa-lo no setor de imagens, como um arquivobase.psd. Basicamente, é só abrir o arquivo em photoshop, 
+criar uma nova camada, e excluir a original. Em seguida é preciso procurar a imagem escolhida, 
+deve ter no minimo 800x800, as dimensões devem ser iguais para comportar o car, e ser salvo em jpg. 
+Em seguida se arrasta o arquivo em jpg para dentro do photoshop que a imagem ficara automaticamente no 
+tamanho 270x270 conforme o tamanho do card. Salve com u novo nome e depois a exporte em png 
+(acho que da pra salvar em jpg também). Vou para o curso quinta feir, qualquer dúvida, o Ivan
+tem o meu whattzap
+
+Att.
+
+Gabriel Maccari

@@ -43,7 +43,7 @@
                             </div>
                         </div>
                         <div class="card" style="width: 18rem;">
-                        <a href="pages/perfume/telaperfume.php"><img class="card-img-top" src="assets\images\Perfume1.jpg"></a>
+                        <a href="telaperfume.php"><img class="card-img-top" src="assets\images\Perfume1.jpg"></a>
                             <div class="card-body">
                                 <h5 class="card-title cor1"><img src="assets\images\Nota2.png"> - Olympéa Intense</h5>
                                 <p class="card-text cor1">Paco Rabanne<br>Perfume Feminino</p>

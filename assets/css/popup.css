@@ -2,12 +2,13 @@
     padding: 5px;
 }
 
-.margin5{
+.margin5 {
     padding: 15px;
 }
+
 .btn {
     color: white;
-    background-color: #71ab9a !important; 
+    background-color: #71ab9a !important;
     border-radius: 20px !important;
     border: none !important;
     width: 150px !important;
@@ -15,6 +16,12 @@
     margin: 0 auto !important;
     margin-top: 10px !important;
     line-height: 25px !important;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #71ab9a;
+    border-color: #28a745;
 }
 
 .btn-lg {
@@ -74,4 +81,3 @@
     left: 150px;
     position: absolute;
 }
-

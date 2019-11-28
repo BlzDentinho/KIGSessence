@@ -22,7 +22,7 @@
     <div class="cor-fundo">
         <div class="row no-gutters">
             <div class="col-md-2 linha borda-w text-center">
-                <img src="\kigsessence\assets\images\logo.png" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt="">
+                <a href="http://localhost/KIGSessence/#"><img src="\kigsessence\assets\images\logo.png" width="150" height="150" class="d-inline-block align-top tamanho-fundo" alt=""></a>
             </div>
             <div class="col-md-8 linha borda-w">
                 <form class="margin1">
@@ -32,7 +32,7 @@
                 </form>
             </div>
             <div class="col-md-2 linha borda-w margin2">
-            <button type="button" class="btn btn-success" onclick="abrir()">Login</button>
+                <button type="button" class="btn btn-success" onclick="abrir()">Login</button>
             </div>
         </div>
     </div>
@@ -61,9 +61,9 @@
         <ul id="menu">
             <a href="#">
                 <div class="dropdown-open3 menu-item">
-                    <li>Perfumes <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
+                    <li>Perfumes</li>
                     <ul class="dropdown-menu3" style="display:none">
-                        <a href="#">
+                        <a href="../busca.php">
                             <li>Perfume 1</li>
                         </a>
                         <a href="#">
@@ -77,7 +77,7 @@
             </a>
             <a href="#">
                 <div class="dropdown-open2 menu-item">
-                    <li>Marcas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
+                    <li>Marcas</li>
                     <ul class="dropdown-menu2" style="display:none">
                         <a href="#">
                             <li>Marca 1</li>
@@ -93,23 +93,12 @@
             </a>
             <a href="#">
                 <div class="dropdown-open1 menu-item">
-                    <li>Relevaâncias mais vendidas <img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
-                    <ul class="dropdown-menu1" style="display:none">
-                        <a href="#">
-                            <li>Perfume relevante 1</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume relevante 2</li>
-                        </a>
-                        <a href="#">
-                            <li>Perfume relevante 3</li>
-                        </a>
-                    </ul>
+                    <li>Relevaâncias mais vendidas</li>
                 </div>
             </a>
             <a href="#">
                 <div class="dropdown-open menu-item">
-                    <li>Melhores perfumes<img src="../assets/images/flecha.svg" width="15px" height="15px" /> </li>
+                    <li>Melhores perfumes</li>
                     <ul class="dropdown-menu4" style="display:none">
                         <a href="#">
                             <li>Perfume relevante 1</li>
@@ -123,7 +112,7 @@
                     </ul>
                 </div>
             </a>
-            <a href="" target="_blank">
+            <a href="sobre.php" target="_self">
                 <li>Sobre nós</li>
             </a>
         </ul>
