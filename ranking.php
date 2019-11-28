@@ -129,29 +129,29 @@
 
                             <div class="card-deck">
                                 <div class="card" style="width: 18rem;">
-                                    <img class="card-img-top" src="assets\images\212vip.png" style="width: 230px" alt="Card image cap">
+                                    <img class="card-img-top" src="assets\images\212vip.png" alt="Card image cap">
                                     <div class="card-body">
                                         <h5 class="card-title cor1"><img src="assets\images\Nota1.png"> - 212 VIP</h5>
                                         <p class="card-text cor1">Carolina Herrera<br>Perfume Masculino</p>
                                     </div>
                                 </div>
                                 <div class="card" style="width: 18rem;">
-                                    <a href="telaperfume.php"><img class="card-img-top" src="assets\images\tomfordM.png" style="width: 190px"></a>
+                                    <a href="telaperfume.php"><img class="card-img-top" src="assets\images\tomford.png"></a>
                                     <div class="card-body">
                                         <h5 class="card-title cor1"><img src="assets\images\Nota3.png"> - Tabaco Vanille</h5>
                                         <p class="card-text cor1">Tom Ford<br>Perfume Masculino</p>
                                     </div>
                                 </div>
                                 <div class="card" style="width: 18rem;">
-                                    <img class="card-img-top" src="assets\images\malbecverl.png" style="width: 230px" alt="Card image cap">
+                                    <img class="card-img-top" src="assets\images\invictus.png" alt="Card image cap">
                                     <div class="card-body">
-                                        <h5 class="card-title cor1"><img src="assets\images\Nota4.png"> - Malbec Verl</h5>
-                                        <p class="card-text cor1">Boticário<br>Perfume Maculino</p>
+                                        <h5 class="card-title cor1"><img src="assets\images\Nota4.png"> - invictus</h5>
+                                        <p class="card-text cor1">Paco Rabanne<br>Perfume Maculino</p>
 
                                     </div>
                                 </div>
                                 <div class="card" style="width: 18rem;">
-                                    <img class="card-img-top" src="assets\images\aventuscreed.png" style="width: 190px" alt="Card image cap">
+                                    <img class="card-img-top" src="assets\images\aventus.png" alt="Card image cap">
                                     <div class="card-body">
                                         <h5 class="card-title cor1"><img src="assets\images\Nota5.png">Aventus by Creed</h5>
                                         <p class="card-text cor1">Eau de Parfum<br>Perfume Masculino</p>
@@ -263,32 +263,32 @@
                             <div class="carousel-item cor1" data-interval="2000">
                                 <div class="card-deck">
                                     <div class="card" style="width: 18rem;">
-                                        <img class="card-img-top" src="assets\images\Perfume44.jpg" alt="Card image cap">
+                                        <img class="card-img-top" src="assets\images\laguna.png" alt="Card image cap">
                                         <div class="card-body">
-                                            <h5 class="card-title"><img src="assets\images\Nota1.png"> - Uomo Intense</h5>
-                                            <p class="card-text">Valentino<br>Perfume Masculino</p>
+                                            <h5 class="card-title"><img src="assets\images\Nota1.png"> - Laguna</h5>
+                                            <p class="card-text">Salvador Dali<br>Perfume Feminino</p>
                                         </div>
                                     </div>
                                     <div class="card" style="width: 18rem;">
-                                        <img class="card-img-top" src="assets\images\Perfume11.jpg" alt="Card image cap">
+                                        <img class="card-img-top" src="assets\images\EuphoriacalvinKlein.png" alt="Card image cap">
                                         <div class="card-body">
-                                            <h5 class="card-title"><img src="assets\images\Nota3.png"> - The One</h5>
-                                            <p class="card-text">Dolce & Gabbana<br>Perfume Masculino</p>
+                                            <h5 class="card-title"><img src="assets\images\Nota3.png"> - Euphoria</h5>
+                                            <p class="card-text">Calvin Klein<br>Perfume Feminino</p>
                                         </div>
                                     </div>
                                     <div class="card" style="width: 18rem;">
-                                        <img class="card-img-top" src="assets\images\Perfume22.jpg" alt="Card image cap">
+                                        <img class="card-img-top" src="assets\images\212viprose.png" alt="Card image cap">
                                         <div class="card-body">
-                                            <h5 class="card-title"><img src="assets\images\Nota4.png"> - Armani Code</h5>
-                                            <p class="card-text">Giorgio Armani<br>Perfume Masculino</p>
+                                            <h5 class="card-title"><img src="assets\images\Nota4.png"> - 212 VIP rose</h5>
+                                            <p class="card-text">Carolina Herrera<br>Perfume Feminino</p>
 
                                         </div>
                                     </div>
                                     <div class="card" style="width: 18rem;">
-                                        <img class="card-img-top" src="assets\images\Perfume33.jpg" alt="Card image cap">
+                                        <img class="card-img-top" src="assets\images\laviebelle.png" alt="Card image cap">
                                         <div class="card-body">
-                                            <h5 class="card-title"><img src="assets\images\Nota5.png"> - Sauvage</h5>
-                                            <p class="card-text">Dior<br>Perfume Masculino</p>
+                                            <h5 class="card-title"><img src="assets\images\Nota5.png"> - Lavie Belle</h5>
+                                            <p class="card-text"> Eau de Parfum<br>Perfume Feminino</p>
 
                                         </div>
                                     </div>
