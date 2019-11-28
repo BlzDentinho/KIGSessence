@@ -88,7 +88,7 @@
         <div class="row container-fluid esquerdo">
             <div class="col-sm-6">
                 <div>
-                    <h2>Sua avaliação<h2>
+                    <h2>Sua avaliação </h2>
                 </div>
                 <ul class="rate-area">
                     <hr />
