@@ -67,7 +67,7 @@
             </a>
             <a href="#">
                 <div class="dropdown-open1 menu-item">
-                    <li>Relevaâncias mais vendidas</li>
+                    <li>Novidades</li>
                 </div>
             </a>
             <a href="#">
