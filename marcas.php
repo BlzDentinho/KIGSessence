@@ -27,7 +27,7 @@
             <div class="col-10">
                 <div class="container linha-palco cor1 espaco">
                     <div class="row">
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5 mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-egeo.png" class="card-img-top" alt="...">
                                 <div class="card-body float-left">
@@ -35,7 +35,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-3 text-center linha-palco1">
+                        <div class="col-sm-3 text-center linha-palco1 mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-floratta.png" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -44,7 +44,7 @@
                         </div>
 
 
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-galbe.png" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -52,7 +52,7 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-men.png" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -60,84 +60,84 @@
                             </div>
                         </div>
 
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-arbo.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-zaad.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-portinari.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-coffee.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-uomini.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-lily.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-accordes.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-match.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-sophie.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-glamour.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-malbec.png" class="card-img-top" alt="...">
                                 <div class="card-body">
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 text-center linha borda-w">
+                        <div class="col-sm-3 text-center linha borda-w mt-5">
                             <div class="card">
                                 <img src="https://boticario.vteximg.com.br/arquivos/brand-intense.png" class="card-img-top" alt="...">
                                 <div class="card-body">
