@@ -31,23 +31,18 @@
 
         <div class="container linha-palco cor1">
             <div class="row">
-                <div class="col-sm-6 text-center linha-palco1">
-                    <h1>K by Dolce & Gabbana</h1>
+                <div class="col-sm-12 text-center linha-palco1">
+                    <h1>Invictus by Paco Rabanne </h1>
                     <p>"Verdade. Lealdade. Amor. Celebre uma nova era de masculinidade com K by Dolce & Gabbana. Um Eau de Toilette envolvente que une tradição e modernidade.
                         A fragrância abre com uma mistura fresca e energética de Laranja Sanguínea, Limão Siciliano e Bagas de Zimbro. No coração, um toque quente e refinado de Essência Picante de Pimento, Âmbar de Sálvia, Gerânio e Lavanda. Por fim, um rastro magnético e inesquecível de Cedro, Vetiver e Patchouli.
-                        O frasco apresenta uma tampa artesanal, geometricamente esculpida em forma de coroa, com partículas de ouro de 24 quilates. A letra K evoca o símbolo tradicional da realeza, mas com uma simplicidade ousada que é surpreendentemente contemporânea"</p>
+                        O frasco apresenta uma tampa artesanal, geometricamente esculpida em forma de coroa, com partículas de ouro de 24 quilates. A letra K evoca o símbolo tradicional da realeza, mas com uma simplicidade ousada que é surpreendentemente contemporânea"<br>Consumidores ao redor do mundo continuam “in love” pelos doces perfumes doces, de forte apelo afetivo, e a proximidade entre perfumes e sabores continua possibilitando inúmeras iniciativas que mantem este universo entre os mais dinâmicos e inovadores na perfumaria. Um exemplo disso é a abertura do bar de Fragrâncias no Ritz Carlton em Berlin. A seleção de coquetéis homenageia alguns dos perfumes mais icônicos do mundo: Giorgio Armani, L’Artisan Parfumeur, Annick Goutal, Yves Saint Laurent, Salvatore Ferragamo e Guerlain.</p>
                 </div>
 
-                <div class="col-sm-6 text-center linha borda-w">
-                    <h1>Gourmands Multissensoriais</h1>
-                    <p>Consumidores ao redor do mundo continuam “in love” pelos doces perfumes doces, de forte apelo afetivo, e a proximidade entre perfumes e sabores continua possibilitando inúmeras iniciativas que mantem este universo entre os mais dinâmicos e inovadores na perfumaria. Um exemplo disso é a abertura do bar de Fragrâncias no Ritz Carlton em Berlin. A seleção de coquetéis homenageia alguns dos perfumes mais icônicos do mundo: Giorgio Armani, L’Artisan Parfumeur, Annick Goutal, Yves Saint Laurent, Salvatore Ferragamo e Guerlain.</p>
-                </div>
-
-            </div>
+                          </div>
         </div>
 
         <div class="text-center padding">
-            <iframe width="700" height="400" src="https://www.youtube.com/embed/dgl9Mqd4858" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="700" height="400" src="https://www.youtube.com/embed/VNOZTsK0gRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
     </div>
