@@ -51,7 +51,7 @@
                             <p class="card-text">Comprei e me arrependi, cheiro de gente morta!.</p>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem;">
+                    <div class="card mt-5" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota1.png">- <b>José</b></h5>
                             <p class="card-text">Comprei pra minha veia, ela amoooou.</p>
@@ -67,19 +67,19 @@
                             <p class="card-text">Apaixonadinha nesse perfume, meninas comprem, vocês não vão se arrepender nunca.</p>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem;">
+                    <div class="card mt-5" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota4.png">- <b>Louise</b></h5>
                             <p class="card-text">Meia boca, recomendo para as pessoas mais jobens!.</p>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem;">
+                    <div class="card mt-5" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota5.png">- <b>Francisca</b></h5>
                             <p class="card-text">Comprei pra minha filha e ela quebrou o vidro de tão ruim.</p>
                         </div>
                     </div>
-                    <div class="card" style="width: 18rem;">
+                    <div class="card mt-5" style="width: 18rem;">
                         <div class="card-body">
                             <h5 class="card-title"><img src="assets/images/nota1.png">- <b>Francisco</b></h5>
                             <p class="card-text">Um amor por esse perfume, quando minha mulher passa eu me apaixono cada vez mais por ela, nota 100.</p>
