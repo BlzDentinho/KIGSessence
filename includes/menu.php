@@ -62,12 +62,13 @@
             
             <a href="#">
                 <div class="dropdown-open2 menu-item">
-                    <li>Marcas</li>
+                <a href="marcas.php"><li>Marcas</li></a>
+                
                 </div>
             </a>
             <a href="#">
                 <div class="dropdown-open1 menu-item">
-                    <li>Relevaâncias mais vendidas</li>
+                    <li>Novidades</li>
                 </div>
             </a>
             <a href="#">
