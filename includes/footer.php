@@ -9,7 +9,7 @@
                     <div class="col-sm-2">
                         <h5>Inicio</h5>
                         <ul>
-                            <li><a href="marcas.php"><p>Marcas</p></a></li>
+                            <li><a href="marcas.php">Marcas</a><li>
                             <li><a href="ranking.php">Melhores perfumes</a></li>
                         </ul>
                     </div>
