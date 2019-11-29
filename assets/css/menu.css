@@ -14,7 +14,7 @@ body {
     padding: 0;
     /* make it look decent enough */
     background: white;
-    color: black;
+    color: black !important;
     font-family: "Avenir Next", "Avenir", sans-serif;
 }
 
