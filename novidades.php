@@ -29,7 +29,7 @@
         <div class="row">
             <div class="col-10">
 
-                <div class="container linha-palco cor1 float-left">
+                <div class="container linha-palco cor1">
                     <div class="row">
                         <div class="col-sm-12 text-center linha-palco1">
                             <h1>Invictus by Paco Rabanne </h1>
@@ -38,13 +38,29 @@
                                 O frasco apresenta uma tampa artesanal, geometricamente esculpida em forma de coroa, com partículas de ouro de 24 quilates. A letra K evoca o símbolo tradicional da realeza, mas com uma simplicidade ousada que é surpreendentemente contemporânea"<br>Consumidores ao redor do mundo continuam “in love” pelos doces perfumes doces, de forte apelo afetivo, e a proximidade entre perfumes e sabores continua possibilitando inúmeras iniciativas que mantem este universo entre os mais dinâmicos e inovadores na perfumaria. Um exemplo disso é a abertura do bar de Fragrâncias no Ritz Carlton em Berlin. A seleção de coquetéis homenageia alguns dos perfumes mais icônicos do mundo: Giorgio Armani, L’Artisan Parfumeur, Annick Goutal, Yves Saint Laurent, Salvatore Ferragamo e Guerlain.<br></p>
                         </div>
                     </div>
+
+
+                    <div class="container cor1 linha-palco">
+                        <div class="card" style="">
+                            <img class="card-img-top" width="100" height="400" src="assets\images\banner.jpg" alt="Card image cap">
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-sm-12 text-center linha-palco">
+                            <h3>Especificações </h3>
+                            <p>Gênero:Masculino<br>
+                                Concentração:Eau de Toilette - EDT<br>
+                                Familia Olfativa:Amadeirado, Aquático<br>
+                                Notas de Topo:Toranja e Folha de Violeta<br>
+                                Notas de Coração:Notas oceânicas, Pau-rosa Palisander, Violeta e Notas Amadeiradas<br>
+                                Notas de Fundo:Ambargris e Madeira de Âmbar</p>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="card linha-palco" style="width: 18rem;">
-                    <img class="card-img-top" src="assets\images\invictus.png" alt="Card image cap">
-                </div>
-
-                <div class="text-center padding">
+                <div class="text-center">
                     <iframe width="700" height="400" src="https://www.youtube.com/embed/VNOZTsK0gRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
 
@@ -57,7 +73,6 @@
                         <img alt="" class="i-amphtml-fill-content i-amphtml-replaced-content" decoding="async" img src="assets\images\propaganda1.png">
                     </div>
                 </div>
-
             </div>
 
         </div>
