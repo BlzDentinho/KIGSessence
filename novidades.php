@@ -49,8 +49,8 @@
 
                     <div class="row">
                         <div class="col-sm-12 text-center linha-palco">
-                            <h3>Especificações </h3>
-                            <p>Gênero:Masculino<br>
+                            <h3 class="text-justify">Especificações </h3>
+                            <p class="text-justify">Gênero:Masculino<br>
                                 Concentração:Eau de Toilette - EDT<br>
                                 Familia Olfativa:Amadeirado, Aquático<br>
                                 Notas de Topo:Toranja e Folha de Violeta<br>
@@ -60,7 +60,7 @@
                     </div>
                 </div>
 
-                <div class="text-center">
+                <div class="text-center linha-palco">
                     <iframe width="700" height="400" src="https://www.youtube.com/embed/VNOZTsK0gRs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
 
