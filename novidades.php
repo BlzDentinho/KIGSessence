@@ -42,7 +42,7 @@
 
                     <div class="container cor1 linha-palco">
                         <div class="card" style="">
-                            <img class="card-img-top" width="100" height="400" src="assets\images\banner.jpg" alt="Card image cap">
+                            <img class="card-img-top" width="100" height="400" src="assets\images\banner3.jpg" alt="Card image cap">
                         </div>
                     </div>
 
