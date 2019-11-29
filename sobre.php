@@ -36,12 +36,12 @@
                             <p>"Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                         </div>
 
-                        <div class="col-sm-12 text-center linha-palco1">
+                        <div class="col-sm-12 text-center linha-palco">
                             <h1>Sobre o Site KIGSessence</h1>
                             <p>Augue neque gravida in fermentum et sollicitudin ac orci phasellus. Laoreet sit amet cursus sit amet dictum sit amet justo. Pharetra diam sit amet nisl suscipit. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Vitae tempus quam pellentesque nec nam. Aliquam eleifend mi in nulla posuere. Facilisi morbi tempus iaculis urna id volutpat lacus laoreet non. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Odio tempor orci dapibus ultrices in iaculis nunc. Feugiat nisl pretium fusce id velit ut tortor pretium. Et netus et malesuada fames ac turpis egestas integer. Scelerisque varius morbi enim nunc faucibus.</p>
                         </div>
 
-                        <div class="col-sm-12 text-center linha-palco1">
+                        <div class="col-sm-12 text-center linha-palco">
                             <h1>KIGSessence - Nosso Time</h1>
                             <div class="card float-left" style="width: 17rem;">
                                 <img src="assets/images/pessoa1.png" class="card-img-top">
